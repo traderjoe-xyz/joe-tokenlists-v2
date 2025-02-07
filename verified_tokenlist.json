@@ -11344,6 +11344,22 @@
         "tags": []
     },
     {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
         "name": "Staked EURA",
         "symbol": "stEUR",
         "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
