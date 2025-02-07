@@ -232,6 +232,14 @@
         "tags": []
     },
     {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
         "name": "GMX",
         "symbol": "GMX",
         "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
@@ -423,14 +431,6 @@
         "chainId": 43114,
         "tags": []
     },
-    {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    }
     {
         "name": "Wrapped Ether",
         "symbol": "WETH.e",
