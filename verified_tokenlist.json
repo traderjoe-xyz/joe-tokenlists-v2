@@ -8874,7 +8874,7 @@
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -13218,7 +13218,7 @@
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
