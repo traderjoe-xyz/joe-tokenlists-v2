@@ -2,7 +2,7 @@
     {
         "name": "USD Coin",
         "symbol": "USDC",
-        "contract_address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
         "decimals": 6,
         "chainId": 8453,
         "tags": []
@@ -10,7 +10,7 @@
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "contract_address": "0x0000000000000000000000000000000000000000",
+        "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -18,7 +18,7 @@
     {
         "name": "Virtual Protocol",
         "symbol": "VIRTUAL",
-        "contract_address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -26,7 +26,7 @@
     {
         "name": "Coinbase Wrapped BTC",
         "symbol": "CBBTC",
-        "contract_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
         "decimals": 8,
         "chainId": 8453,
         "tags": []
@@ -34,7 +34,7 @@
     {
         "name": "aixbt by Virtuals",
         "symbol": "AIXBT",
-        "contract_address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+        "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -42,7 +42,7 @@
     {
         "name": "Toshi",
         "symbol": "TOSHI",
-        "contract_address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+        "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -50,7 +50,7 @@
     {
         "name": "Venice Token",
         "symbol": "VVV",
-        "contract_address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+        "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -58,7 +58,7 @@
     {
         "name": "Pendle",
         "symbol": "PENDLE",
-        "contract_address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
+        "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -66,7 +66,7 @@
     {
         "name": "Aerodrome",
         "symbol": "AERO",
-        "contract_address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+        "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -74,7 +74,7 @@
     {
         "name": "Morpho Token",
         "symbol": "MORPHO",
-        "contract_address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+        "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -82,7 +82,7 @@
     {
         "name": "Brett",
         "symbol": "BRETT",
-        "contract_address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+        "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -90,7 +90,7 @@
     {
         "name": "Cookie",
         "symbol": "COOKIE",
-        "contract_address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+        "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -98,7 +98,7 @@
     {
         "name": "Degen",
         "symbol": "DEGEN",
-        "contract_address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+        "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -106,7 +106,7 @@
     {
         "name": "GAME by Virtuals",
         "symbol": "GAME",
-        "contract_address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
+        "address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -114,7 +114,7 @@
     {
         "name": "Freysa",
         "symbol": "FAI",
-        "contract_address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
+        "address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -122,7 +122,7 @@
     {
         "name": "Spectral Token",
         "symbol": "SPEC",
-        "contract_address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
+        "address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -130,7 +130,7 @@
     {
         "name": "Moonwell",
         "symbol": "WELL",
-        "contract_address": "0xa88594d404727625a9437c3f886c7643872296ae",
+        "address": "0xa88594d404727625a9437c3f886c7643872296ae",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -138,7 +138,7 @@
     {
         "name": "Keyboard Cat",
         "symbol": "KEYCAT",
-        "contract_address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+        "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -146,7 +146,7 @@
     {
         "name": "SKI MASK DOG",
         "symbol": "SKI",
-        "contract_address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+        "address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -154,7 +154,7 @@
     {
         "name": "Unit 00 - Rei",
         "symbol": "REI",
-        "contract_address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
+        "address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -162,7 +162,7 @@
     {
         "name": "VaderAI by Virtuals",
         "symbol": "VADER",
-        "contract_address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
+        "address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -170,7 +170,7 @@
     {
         "name": "doginme",
         "symbol": "DOGINME",
-        "contract_address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+        "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -178,7 +178,7 @@
     {
         "name": "HeyAnon",
         "symbol": "ANON",
-        "contract_address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+        "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
         "decimals": 18,
         "chainId": 8453,
         "tags": []
@@ -186,7 +186,7 @@
     {
         "name": "Arbitrum",
         "symbol": "ARB",
-        "contract_address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -194,7 +194,7 @@
     {
         "name": "Bridged USDC",
         "symbol": "USDC.e",
-        "contract_address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
         "decimals": 6,
         "chainId": 42161,
         "tags": []
@@ -202,7 +202,7 @@
     {
         "name": "USD Coin",
         "symbol": "USDC",
-        "contract_address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
         "decimals": 6,
         "chainId": 42161,
         "tags": []
@@ -210,7 +210,7 @@
     {
         "name": "Camelot Token",
         "symbol": "GRAIL",
-        "contract_address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+        "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -218,7 +218,7 @@
     {
         "name": "Dai",
         "symbol": "DAI",
-        "contract_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -226,7 +226,7 @@
     {
         "name": "Wrapped Ether",
         "symbol": "ETH",
-        "contract_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -234,7 +234,7 @@
     {
         "name": "GMX",
         "symbol": "GMX",
-        "contract_address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -242,7 +242,7 @@
     {
         "name": "HEGIC",
         "symbol": "HEGIC",
-        "contract_address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+        "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -250,7 +250,7 @@
     {
         "name": "Gains Network",
         "symbol": "GNS",
-        "contract_address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+        "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -258,7 +258,7 @@
     {
         "name": "LayerZero",
         "symbol": "ZRO",
-        "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -266,7 +266,7 @@
     {
         "name": "MAGIC",
         "symbol": "MAGIC",
-        "contract_address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+        "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -274,7 +274,7 @@
     {
         "name": "Pendle",
         "symbol": "PENDLE",
-        "contract_address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+        "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -282,7 +282,7 @@
     {
         "name": "Radiant v2",
         "symbol": "RDNT",
-        "contract_address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+        "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -290,7 +290,7 @@
     {
         "name": "Stargate Token",
         "symbol": "STG",
-        "contract_address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+        "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -298,7 +298,7 @@
     {
         "name": "Tether Token",
         "symbol": "USDT",
-        "contract_address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
         "decimals": 6,
         "chainId": 42161,
         "tags": []
@@ -306,7 +306,7 @@
     {
         "name": "TraderJoe Token",
         "symbol": "JOE",
-        "contract_address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+        "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -314,7 +314,7 @@
     {
         "name": "WOO",
         "symbol": "WOO",
-        "contract_address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+        "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -322,7 +322,7 @@
     {
         "name": "Wrapped BTC",
         "symbol": "WBTC",
-        "contract_address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+        "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
         "decimals": 8,
         "chainId": 42161,
         "tags": []
@@ -330,7 +330,7 @@
     {
         "name": "Boop",
         "symbol": "BOOP",
-        "contract_address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+        "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
         "decimals": 18,
         "chainId": 42161,
         "tags": []
@@ -362,7 +362,7 @@
     {
         "name": "AVAX",
         "symbol": "AVAX",
-        "contract_address": "0x0000000000000000000000000000000000000000",
+        "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -370,7 +370,7 @@
     {
         "name": "Wrapped AVAX",
         "symbol": "WAVAX",
-        "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -378,7 +378,7 @@
     {
         "name": "Benqi",
         "symbol": "QI",
-        "contract_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -386,7 +386,7 @@
     {
         "name": "Bitcoin (BTC.b)",
         "symbol": "BTC.b",
-        "contract_address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+        "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
         "decimals": 8,
         "chainId": 43114,
         "tags": []
@@ -394,7 +394,7 @@
     {
         "name": "JOE token",
         "symbol": "JOE",
-        "contract_address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+        "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -402,7 +402,7 @@
     {
         "name": "Tether Token",
         "symbol": "USDT",
-        "contract_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
         "decimals": 6,
         "chainId": 43114,
         "tags": []
@@ -410,7 +410,7 @@
     {
         "name": "USD Coin",
         "symbol": "USDC",
-        "contract_address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
         "decimals": 6,
         "chainId": 43114,
         "tags": []
@@ -418,7 +418,7 @@
     {
         "name": "Wrapped Bitcoin",
         "symbol": "WBTC",
-        "contract_address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+        "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
         "decimals": 8,
         "chainId": 43114,
         "tags": []
@@ -426,7 +426,7 @@
     {
         "name": "Wrapped Ether",
         "symbol": "WETH.e",
-        "contract_address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -434,7 +434,7 @@
     {
         "name": "ArenaToken",
         "symbol": "ARENA",
-        "contract_address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+        "address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -442,7 +442,7 @@
     {
         "name": "AUSD",
         "symbol": "AUSD",
-        "contract_address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+        "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
         "decimals": 6,
         "chainId": 43114,
         "tags": []
@@ -450,7 +450,7 @@
     {
         "name": "COQINU (COQ)",
         "symbol": "COQ",
-        "contract_address": "0x420fca0121dc28039145009570975747295f2329",
+        "address": "0x420fca0121dc28039145009570975747295f2329",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -458,7 +458,7 @@
     {
         "name": "OFFICIAL TRUMP",
         "symbol": "TRUMP",
-        "contract_address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
+        "address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -466,7 +466,7 @@
     {
         "name": "yellow ket",
         "symbol": "KET",
-        "contract_address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+        "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
@@ -474,7 +474,7 @@
     {
         "name": "Staked AVAX",
         "symbol": "sAVAX",
-        "contract_address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+        "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
         "decimals": 18,
         "chainId": 43114,
         "tags": []
