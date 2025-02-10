@@ -16613,14 +16613,6 @@
         "tags": []
     },
     {
-        "name": "Apetardio",
-        "symbol": "Apetardio",
-        "address": "0xe161bE4a74AB8FA8706a2D03e67c02318d0a0ad6",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
         "name": "Cheeky Basturds",
         "symbol": "Cheeky",
         "address": "0xc945897A34b5085Bc5DEb918806BfDFDf2d9cDe4",
