@@ -16611,5 +16611,13 @@
         "decimals": 18,
         "chainId": 42161,
         "tags": []
+    },
+    {
+        "name": "Cheeky Basturds",
+        "symbol": "Cheeky",
+        "address": "0xc945897A34b5085Bc5DEb918806BfDFDf2d9cDe4",
+        "decimals": 18,
+        "chainId": 8453,
+        "tags": []
     }
 ]
