@@ -15771,5 +15771,845 @@
         "decimals": 18,
         "chainId": 80094,
         "tags": []
+    },
+    {
+        "name": "Camelot xGRAIL",
+        "symbol": "xGRAIL",
+        "address": "0x3caae25ee616f2c8e13c74da0813402eae3f496b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Buffer Token",
+        "symbol": "BFR",
+        "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Umami",
+        "symbol": "UMAMI",
+        "address": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3",
+        "decimals": 9,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Compounded Marinated UMAMI",
+        "symbol": "cmUMAMI",
+        "address": "0x1922c36f3bc762ca300b4a46bb2102f84b1684ab",
+        "decimals": 9,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Excalibur legacy token",
+        "symbol": "lEXC",
+        "address": "0x83bbc9c4c436bd7a4b4a1c5d42b00caae113c3b5",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Modular",
+        "symbol": "MOD",
+        "address": "0x244ae62439c1ef3187f244d8604ac2c391ef2b53",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Jones USDC",
+        "symbol": "jUSDC",
+        "address": "0xe66998533a1992ece9ea99cdf47686f4fc8458e0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Relay Token",
+        "symbol": "RELAY",
+        "address": "0x1426cf37caa89628c4da2864e40cf75e6d66ac6b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Pirex GMX",
+        "symbol": "pxGMX",
+        "address": "0x9a592b4539e22eeb8b2a3df679d572c7712ef999",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Premia",
+        "symbol": "PREMIA",
+        "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "GenomesDAO Governance (deprecated)",
+        "symbol": "OLD-GNOME",
+        "address": "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "EDE",
+        "symbol": "EDE",
+        "address": "0xccd3891c1452b7cb0e4632774b9365dc4ee24f20",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Impossible Finance Launchpad",
+        "symbol": "IDIA",
+        "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Spool DAO Token",
+        "symbol": "SPOOL",
+        "address": "0xeca14f81085e5b8d1c9d32dcb596681574723561",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wombex Token",
+        "symbol": "WMX",
+        "address": "0x5190f06eacefa2c552dc6bd5e763b81c73293293",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Metavault DAO",
+        "symbol": "MVD",
+        "address": "0x15a808ed3846d25e88ae868de79f1bcb1ac382b5",
+        "decimals": 9,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "LEX",
+        "symbol": "LEX",
+        "address": "0x6bb7a17acc227fd1f6781d1eedeae01b42047ee0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "CHOKE",
+        "symbol": "CHOKE",
+        "address": "0x6fc2680d8ad8e8312191441b4eca9eff8d06b45a",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Fractal Protocol Vault Token",
+        "symbol": "USDF",
+        "address": "0xae48b7c8e096896e32d53f10d0bf89f82ec7b987",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Cryptex",
+        "symbol": "CTX",
+        "address": "0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Unlimited Network Token",
+        "symbol": "UWU",
+        "address": "0x05d35769a222affd6185e20f3f3676abde56c25f",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Mozaic Token",
+        "symbol": "MOZ",
+        "address": "0x20547341e58fb558637fa15379c92e11f7b7f710",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Dopex Rebate Token",
+        "symbol": "rDPX",
+        "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ZooDAO",
+        "symbol": "ZOO",
+        "address": "0x1689a6e1f09658ff37d0bb131514e701045876da",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Tigris",
+        "symbol": "TIG",
+        "address": "0x3a33473d7990a605a88ac72a78ad4efc40a54adb",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Seneca",
+        "symbol": "SEN",
+        "address": "0x154388a4650d63acc823e06ef9e47c1eddd3cbb2",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Grail Inu",
+        "symbol": "iGRAIL",
+        "address": "0x2ef354c71caab6dc7469bb3c99642878ccd1143f",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Yak Token",
+        "symbol": "YAK",
+        "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped SOL (Wormhole)",
+        "symbol": "SOL",
+        "address": "0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07",
+        "decimals": 9,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Seneca USD",
+        "symbol": "senUSD",
+        "address": "0xf36a65fd3b7df848860d174115f1864e6aa2db5e",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Eclipse Fi",
+        "symbol": "ECLIP",
+        "address": "0x93ca0d85837ff83158cd14d65b169cdb223b1921",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Rosa",
+        "symbol": "ROSA",
+        "address": "0x6dd51520825b170c32ef322eadcbd53594929a8a",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ApeX Token",
+        "symbol": "APEX",
+        "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Uranium3o8",
+        "symbol": "U",
+        "address": "0x6604b5da093f3f35066c6c79e51d581a44c35288",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Glend",
+        "symbol": "GLEND",
+        "address": "0x43df266501dff4773f8f33179e3b96ab94dbc28d",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "stake.link",
+        "symbol": "SDL",
+        "address": "0xdfea35757264f5b6c0ff21104151d9f991d0eec0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped stLINK",
+        "symbol": "wstLINK",
+        "address": "0x3106e2e148525b3db36795b04691d444c24972fb",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezETH",
+        "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Peapods",
+        "symbol": "PEAS",
+        "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "USDe",
+        "symbol": "USDe",
+        "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Stryke Token",
+        "symbol": "SYK",
+        "address": "0xacc51ffdef63fb0c014c882267c3a17261a5ed50",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Equilibria Pendle",
+        "symbol": "ePendle",
+        "address": "0x3eabe18eae267d1b57f917aba085bb5906114600",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Milkyway Staked TIA",
+        "symbol": "milkTIA",
+        "address": "0x4aa81d7ab59c775fe6f9f45e6941a0fb8cd692a6",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "TIA.n",
+        "symbol": "TIA.n",
+        "address": "0xd56734d7f9979dd94fae3d67c7e928234e71cd4c",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Crypto Unicorns",
+        "symbol": "CU",
+        "address": "0x89c49a3fa372920ac23ce757a029e6936c0b8e02",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "KelpDao Restaked ETH",
+        "symbol": "rsETH",
+        "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Molten",
+        "symbol": "MOLTEN",
+        "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "D2",
+        "symbol": "D2",
+        "address": "0xed7f000ee335b8199b004cca1c6f36d188cf6cb8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "BorpaToken",
+        "symbol": "BORPA",
+        "address": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "AARK Token",
+        "symbol": "AARK",
+        "address": "0xca4e51f6ad4afd9d1068e5899de9dd7d73f3463d",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Bonsai",
+        "symbol": "Bonsai",
+        "address": "0x79ead7a012d97ed8deece279f9bc39e264d7eef9",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Open Dollar Governance",
+        "symbol": "ODG",
+        "address": "0x000d636bd52bfc1b3a699165ef5aa340bea8939c",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Paribus",
+        "symbol": "PBX",
+        "address": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "STEAK",
+        "symbol": "STEAK",
+        "address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Axelar",
+        "symbol": "AXL",
+        "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Vertex",
+        "symbol": "VRTX",
+        "address": "0x95146881b86b3ee99e63705ec87afe29fcc044d9",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Tao",
+        "symbol": "wTAO",
+        "address": "0xa14a26bb46e236da394da6b09a5b4cf737ce707b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped COIN.d",
+        "symbol": "COIN.dw",
+        "address": "0x407274abb9241da0a1889c1b8ec65359dd9d316d",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Collab.Land",
+        "symbol": "COLLAB",
+        "address": "0xf18c263ec50cc211ef3f172228549b6618f10613",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "RODEO++",
+        "symbol": "RODEO++",
+        "address": "0xeee6e115cb08ac280fc55642a61d8adfba85dfed",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "IPOR Token",
+        "symbol": "IPOR",
+        "address": "0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "GG",
+        "symbol": "GG",
+        "address": "0x000000000026839b3f4181f2cf69336af6153b99",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Polytrade",
+        "symbol": "TRADE",
+        "address": "0xe22c452bd2ade15dfc8ad98286bc6bdf0c9219b7",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Pirex Ether",
+        "symbol": "pxETH",
+        "address": "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ETHx",
+        "symbol": "ETHx",
+        "address": "0xed65c5085a18fa160af0313e60dcc7905e944dc7",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Moons",
+        "symbol": "MOON",
+        "address": "0x24404dc041d74cd03cfe28855f555559390c931b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped RDDT.d",
+        "symbol": "RDDT.dw",
+        "address": "0x2f71b3804a74a013d00065225752dba9ad061e51",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ARB++",
+        "symbol": "ARB++",
+        "address": "0x291344fbaac4fe14632061e4c336fe3b94c52320",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Fluidity",
+        "symbol": "FLY",
+        "address": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Kwenta Token",
+        "symbol": "KWENTA",
+        "address": "0x7fe5e5befa99a57cd690f2e220c251c90422da8b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Rubic Token",
+        "symbol": "RBC",
+        "address": "0x10aaed289a7b1b0155bf4b86c862f297e84465e0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "mGRAIL Token",
+        "symbol": "mGRAIL",
+        "address": "0x68e92a82e2fb7b7539f51ae2fcfb98e775f463b9",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Open Dollar",
+        "symbol": "OD",
+        "address": "0x221a0f68770658c15b525d0f89f5da2baab5f321",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Wrapped GME.d",
+        "symbol": "GME.dw",
+        "address": "0x43333771e8d5fd74e5491d10aeac2bfdc23d19c8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ether.fi governance token",
+        "symbol": "ETHFI",
+        "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "HATs Finance token",
+        "symbol": "HAT",
+        "address": "0x4d22e37eb4d71d1acc5f4889a65936d2a44a2f15",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Gains Network USDC",
+        "symbol": "gUSDC",
+        "address": "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Ondo U.S. Dollar Yield",
+        "symbol": "USDY",
+        "address": "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Mozaic escrowed token",
+        "symbol": "xMOZ",
+        "address": "0x288734c9d9db21c5660b6b893f513cb04b6cd2d6",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Hercules Vault Token",
+        "symbol": "MOZ-LP",
+        "address": "0x2e8751fcd698b0a0704a04515667229e7843fa58",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ALEX",
+        "symbol": "ALEX",
+        "address": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ORDER",
+        "symbol": "ORDER",
+        "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "address": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+        "decimals": 8,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Anzen USDz",
+        "symbol": "USDz",
+        "address": "0x5018609ab477cc502e170a5accf5312b86a4b94f",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Pear",
+        "symbol": "PEAR",
+        "address": "0x3212dc0f8c834e4de893532d27cc9b6001684db0",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "agETH",
+        "symbol": "agETH",
+        "address": "0xf1a88250532a4a66a2420a8cbb434da82e1e2ca1",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Eigen",
+        "symbol": "EIGEN",
+        "address": "0x606c3e5075e5555e79aa15f1e9facb776f96c248",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "GUBERTO",
+        "symbol": "GUBERTO",
+        "address": "0x4727a7d2022e99ee5c298513b730307f458f9b40",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "address": "0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Seedworld",
+        "symbol": "SWORLD",
+        "address": "0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "GMX Market Index",
+        "symbol": "GMI",
+        "address": "0xaad4187a81689af72d91966c8119756e425cd7cf",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Vitalik Ai",
+        "symbol": "VITAI",
+        "address": "0x1b7ad346b6ff2d196daa8e78aed86baa6d7e3b02",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Eternal AI",
+        "symbol": "EAI",
+        "address": "0xdb8c67e6ca293f43c75e106c70b97033cc2909e3",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "ostiumLP",
+        "symbol": "OLP",
+        "address": "0x20d419a8e12c45f88fda7c5760bb6923cee27f98",
+        "decimals": 6,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "USDX",
+        "symbol": "USDX",
+        "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Staked USDX",
+        "symbol": "sUSDX",
+        "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Plutus GRAIL",
+        "symbol": "plsGRAIL",
+        "address": "0x9e6b748d25ed2600aa0ce7cbb42267adcf21fd9b",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "CARV",
+        "symbol": "CARV",
+        "address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "O3",
+        "symbol": "O3",
+        "address": "0xdd89a4d3362828e601df52208302a741f08e46c5",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "AISweatShop",
+        "symbol": "DeFAI",
+        "address": "0x13ad3f1150db0e1e05fd32bdeeb7c110ee023de6",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Overlord",
+        "symbol": "OVER",
+        "address": "0xf6eb7a9799f6680c320e79d0fb35e842d54d38ce",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Gameboi",
+        "symbol": "GMB",
+        "address": "0xa0c8d91b6dce36f6deeadf716ab02bc539d9bebf",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
+    },
+    {
+        "name": "Kudai",
+        "symbol": "KUDAI",
+        "address": "0xc9bd1c1e65ebfb36cf4b3d9fc8e2b844248deee8",
+        "decimals": 18,
+        "chainId": 42161,
+        "tags": []
     }
 ]
