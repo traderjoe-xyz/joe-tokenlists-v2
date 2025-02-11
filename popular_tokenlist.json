@@ -526,5 +526,101 @@
         "chainId": 56,
         "decimals": 18,
         "tags": []
+    },
+    {
+        "name": "BERA Token",
+        "symbol": "BERA",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Bera",
+        "symbol": "WBERA",
+        "address": "0x6969696969696969696969696969696969696969",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "HONEY",
+        "symbol": "HONEY",
+        "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "NECTAR",
+        "symbol": "NECT",
+        "address": "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Ramen Token",
+        "symbol": "Ramen",
+        "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Bridged USDC (Stargate)",
+        "symbol": "USDC.e",
+        "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+        "decimals": 6,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "BYUSD",
+        "symbol": "BYUSD",
+        "address": "0x688e72142674041f8f6af4c808a4045ca1d6ac82",
+        "decimals": 6,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+        "decimals": 8,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x5b82028cfc477c4e7dda7ff33d59a23fa7be002a",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Infrared BERA",
+        "symbol": "iBERA",
+        "address": "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Infrared BGT",
+        "symbol": "iBGT",
+        "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
     }
 ]
