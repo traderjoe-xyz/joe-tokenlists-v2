@@ -15424,6 +15424,14 @@
         "tags": []
     },
     {
+        "name": "Ramen Token",
+        "symbol": "Ramen",
+        "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
         "name": "Camelot xGRAIL",
         "symbol": "xGRAIL",
         "address": "0x3caae25ee616f2c8e13c74da0813402eae3f496b",
@@ -21613,6 +21621,174 @@
         "address": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
         "decimals": 18,
         "chainId": 56,
+        "tags": []
+    },
+    {
+        "name": "Holdstation",
+        "symbol": "HOLD",
+        "address": "0xff0a636dfc44bb0129b631cdd38d21b613290c98",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Beradrome [BD]",
+        "symbol": "BERO",
+        "address": "0x7838cec5b11298ff6a9513fa385621b765c74174",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Beradrome Call Option",
+        "symbol": "oBERO",
+        "address": "0x40a8d9efe6a2c6c9d193cc0a4476767748e68133",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "The Bera Cabal",
+        "symbol": "BABAL",
+        "address": "0xfbe1b4d0a041c1c107899be08e5acc7d7f276774",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Three Beras Capital",
+        "symbol": "3BC",
+        "address": "0x467aa1bfa3dcc714f7c16b3d779200431f6a833b",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Pookie",
+        "symbol": "pookie",
+        "address": "0x4a4e2bba852a6e294264103fdc30d2800f473ad6",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "YEET",
+        "symbol": "YEET",
+        "address": "0x08a38caa631de329ff2dad1656ce789f31af3142",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "BearWifSock",
+        "symbol": "WifSock",
+        "address": "0x81fccaf679879e380f6b8f748df7d199467de219",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Olympus",
+        "symbol": "OHM",
+        "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+        "decimals": 9,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "hyperbera",
+        "symbol": "HYPE",
+        "address": "0xfa3eb598074746d0052c1f5292896b6f0a0babd1",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Bera Blast",
+        "symbol": "BBLAST",
+        "address": "0x6bad2a58927198f8d39a90625699c2a3c9bdd4ce",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Grand Conquest Gold",
+        "symbol": "GODL",
+        "address": "0x85468a0cb26b5fc1f2b7b7ba3aee07f073dff709",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "BOBO",
+        "symbol": "BOBO",
+        "address": "0x4434bc66eb411f8bf55a6537a592623e4a3857a5",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "LBGT+",
+        "symbol": "LBGT",
+        "address": "0xe11b98c2f73ef9ef7b40429fa13885abca7ecf38",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Long Snoot Bear",
+        "symbol": "LSB",
+        "address": "0xb6f434704d34965d6b47da36bedbc987fa4fef96",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Beraplug",
+        "symbol": "PLUG",
+        "address": "0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "KUBERA",
+        "symbol": "KUBERA",
+        "address": "0x3cdbf1361b87c5eba10bf002040e2bf98e07e160",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "BEBE",
+        "symbol": "BEBE",
+        "address": "0xe053fd4972fc9242ef7310711a422c8dbf20e686",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "butterdawg",
+        "symbol": "bdawg",
+        "address": "0xafa4fbcfb207e3f13467852a88af9e2763690b12",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "Bera the Cub",
+        "symbol": "BTC",
+        "address": "0x0d9ac083dd2760943f773e70ebffe621e950871c",
+        "decimals": 18,
+        "chainId": 80094,
+        "tags": []
+    },
+    {
+        "name": "SmokeysDog",
+        "symbol": "PATCHS",
+        "address": "0xc309d1774f7a37062e1e40eed1be94b6c2627286",
+        "decimals": 18,
+        "chainId": 80094,
         "tags": []
     }
 ]
