@@ -21790,5 +21790,13 @@
         "decimals": 18,
         "chainId": 80094,
         "tags": []
+    },
+    {
+        "name": "WINK",
+        "symbol": "WINK",
+        "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
     }
 ]
