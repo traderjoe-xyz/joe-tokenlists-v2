@@ -486,5 +486,13 @@
         "decimals": 18,
         "chainId": 43114,
         "tags": []
+    },
+    {
+        "name": "Waifu",
+        "symbol": "WAIFU",
+        "address": "0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
     }
 ]
