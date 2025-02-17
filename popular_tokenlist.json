@@ -630,5 +630,37 @@
         "decimals": 18,
         "chainId": 43114,
         "tags": []
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 9,
+        "chainId": 1399811149,
+        "tags": []
+    },
+    {
+        "name": "Wrapped SOL",
+        "symbol": "wSOL",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9,
+        "chainId": 1399811149,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "decimals": 6,
+        "chainId": 1399811149,
+        "tags": []
+    },
+    {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "decimals": 6,
+        "chainId": 1399811149,
+        "tags": []
     }
 ]
