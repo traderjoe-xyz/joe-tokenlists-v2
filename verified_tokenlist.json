@@ -21792,6 +21792,38 @@
         "tags": []
     },
     {
+        "name": "Pangolin",
+        "symbol": "PNG",
+        "address": "0x60781c2586d68229fde47564546784ab3faca982",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "Pharaoh",
+        "symbol": "PHAR",
+        "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "WAIFU",
+        "symbol": "WAIFU",
+        "address": "0xff24003428fb2e969c39edee4e9f464b0b78313d",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
+        "name": "AIGG",
+        "symbol": "AIGG",
+        "address": "0x73831e7c5577859fb0583af97c9c68f96a43fcb6",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
+    },
+    {
         "name": "WINK",
         "symbol": "WINK",
         "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
