@@ -662,5 +662,53 @@
         "decimals": 6,
         "chainId": 1399811149,
         "tags": []
+    },
+    {
+        "name": "MONAD",
+        "symbol": "MON",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "chainId": 10143,
+        "tags": []
+    },
+    {
+        "name": "Wrapped MONAD",
+        "symbol": "WMON",
+        "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+        "decimals": 18,
+        "chainId": 10143,
+        "tags": []
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+        "decimals": 6,
+        "chainId": 20110143,
+        "tags": []
+    },
+    {
+        "name": "Tether USD", 
+        "symbol": "USDT",
+        "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+        "decimals": 6,
+        "chainId": 10143,
+        "tags": []
+    },
+    {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
+        "decimals": 8,
+        "chainId": 10143,
+        "tags": []
+    },
+    {
+        "name": "Wrapped ETH",
+        "symbol": "WETH",
+        "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+        "decimals": 18,
+        "chainId": 10143,
+        "tags": []
     }
 ]
