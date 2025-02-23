@@ -21830,5 +21830,13 @@
         "decimals": 18,
         "chainId": 43114,
         "tags": []
+    },
+    {
+        "name": "iBTC",
+        "symbol": "iBTC",
+        "address": "0x25BE3EdD820A8fCE6B8E211F40C5B82Ba176994C",
+        "decimals": 8,
+        "chainId": 43114,
+        "tags": []
     }
 ]
