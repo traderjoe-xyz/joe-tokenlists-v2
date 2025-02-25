@@ -1,714 +1,890 @@
 [
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-        "decimals": 6,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Virtual Protocol",
-        "symbol": "VIRTUAL",
-        "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Coinbase Wrapped BTC",
-        "symbol": "CBBTC",
-        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-        "decimals": 8,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "aixbt by Virtuals",
-        "symbol": "AIXBT",
-        "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Toshi",
-        "symbol": "TOSHI",
-        "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Venice Token",
-        "symbol": "VVV",
-        "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Pendle",
-        "symbol": "PENDLE",
-        "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Aerodrome",
-        "symbol": "AERO",
-        "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Morpho Token",
-        "symbol": "MORPHO",
-        "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Brett",
-        "symbol": "BRETT",
-        "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Cookie",
-        "symbol": "COOKIE",
-        "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Degen",
-        "symbol": "DEGEN",
-        "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "GAME by Virtuals",
-        "symbol": "GAME",
-        "address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Freysa",
-        "symbol": "FAI",
-        "address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Spectral Token",
-        "symbol": "SPEC",
-        "address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Moonwell",
-        "symbol": "WELL",
-        "address": "0xa88594d404727625a9437c3f886c7643872296ae",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Keyboard Cat",
-        "symbol": "KEYCAT",
-        "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "SKI MASK DOG",
-        "symbol": "SKI",
-        "address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Unit 00 - Rei",
-        "symbol": "REI",
-        "address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "VaderAI by Virtuals",
-        "symbol": "VADER",
-        "address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "doginme",
-        "symbol": "DOGINME",
-        "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "HeyAnon",
-        "symbol": "ANON",
-        "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
-        "decimals": 18,
-        "chainId": 8453,
-        "tags": []
-    },
-    {
-        "name": "Arbitrum",
-        "symbol": "ARB",
-        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Bridged USDC",
-        "symbol": "USDC.e",
-        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-        "decimals": 6,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-        "decimals": 6,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Camelot Token",
-        "symbol": "GRAIL",
-        "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Dai",
-        "symbol": "DAI",
-        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Wrapped Ether",
-        "symbol": "ETH",
-        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Ethereum",
-        "symbol": "ETH",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "GMX",
-        "symbol": "GMX",
-        "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "HEGIC",
-        "symbol": "HEGIC",
-        "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Gains Network",
-        "symbol": "GNS",
-        "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "LayerZero",
-        "symbol": "ZRO",
-        "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "MAGIC",
-        "symbol": "MAGIC",
-        "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Pendle",
-        "symbol": "PENDLE",
-        "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Radiant v2",
-        "symbol": "RDNT",
-        "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Stargate Token",
-        "symbol": "STG",
-        "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Tether Token",
-        "symbol": "USDT",
-        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-        "decimals": 6,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "TraderJoe Token",
-        "symbol": "JOE",
-        "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "WOO",
-        "symbol": "WOO",
-        "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-        "decimals": 8,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Boop",
-        "symbol": "BOOP",
-        "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
-        "decimals": 18,
-        "chainId": 42161,
-        "tags": []
-    },
-    {
-        "name": "Wrapped AVAX",
-        "symbol": "WAVAX",
-        "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
-        "decimals": 18,
-        "chainId": 43113,
-        "tags": []
-    },
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "0xb6076c93701d6a07266c31066b298aec6dd65c2d",
-        "decimals": 6,
-        "chainId": 43113,
-        "tags": []
-    },
-    {
-        "name": "USD Tether",
-        "symbol": "USDT",
-        "address": "0xab231a5744c8e6c45481754928ccffffd4aa0732",
-        "decimals": 6,
-        "chainId": 43113,
-        "tags": []
-    },
-    {
-        "name": "AVAX",
-        "symbol": "AVAX",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Wrapped AVAX",
-        "symbol": "WAVAX",
-        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Benqi",
-        "symbol": "QI",
-        "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Bitcoin (BTC.b)",
-        "symbol": "BTC.b",
-        "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-        "decimals": 8,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "JOE token",
-        "symbol": "JOE",
-        "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Tether Token",
-        "symbol": "USDT",
-        "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-        "decimals": 6,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-        "decimals": 6,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Wrapped Bitcoin",
-        "symbol": "WBTC",
-        "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-        "decimals": 8,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Wrapped Ether",
-        "symbol": "WETH.e",
-        "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "ArenaToken",
-        "symbol": "ARENA",
-        "address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "AUSD",
-        "symbol": "AUSD",
-        "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-        "decimals": 6,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "COQINU (COQ)",
-        "symbol": "COQ",
-        "address": "0x420fca0121dc28039145009570975747295f2329",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "OFFICIAL TRUMP",
-        "symbol": "TRUMP",
-        "address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "yellow ket",
-        "symbol": "KET",
-        "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Staked AVAX",
-        "symbol": "sAVAX",
-        "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "WBNB Token",
-        "symbol": "WBNB",
-        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "chainId": 56,
-        "decimals": 18,
-        "tags": []
-    },
-    {
-        "name": "Binance Pegged ETH",
-        "symbol": "ETH",
-        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-        "chainId": 56,
-        "decimals": 18,
-        "tags": []
-    },
-    {
-        "name": "Binance Pegged Bitcoin",
-        "symbol": "BTCB",
-        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-        "chainId": 56,
-        "decimals": 18,
-        "tags": []
-    },
-    {
-        "name": "Binance Pegged USDT",
-        "symbol": "USDT",
-        "address": "0x55d398326f99059fF775485246999027B3197955",
-        "chainId": 56,
-        "decimals": 18,
-        "tags": []
-    },
-    {
-        "name": "Binance Pegged USD Coin",
-        "symbol": "USDC",
-        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-        "chainId": 56,
-        "decimals": 18,
-        "tags": []
-    },
-    {
-        "name": "BERA Token",
-        "symbol": "BERA",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Wrapped Bera",
-        "symbol": "WBERA",
-        "address": "0x6969696969696969696969696969696969696969",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "HONEY",
-        "symbol": "HONEY",
-        "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "NECTAR",
-        "symbol": "NECT",
-        "address": "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Ramen Token",
-        "symbol": "Ramen",
-        "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Bridged USDC (Stargate)",
-        "symbol": "USDC.e",
-        "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
-        "decimals": 6,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "BYUSD",
-        "symbol": "BYUSD",
-        "address": "0x688e72142674041f8f6af4c808a4045ca1d6ac82",
-        "decimals": 6,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-        "decimals": 8,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Magic Internet Money",
-        "symbol": "MIM",
-        "address": "0x5b82028cfc477c4e7dda7ff33d59a23fa7be002a",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Infrared BERA",
-        "symbol": "iBERA",
-        "address": "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "Infrared BGT",
-        "symbol": "iBGT",
-        "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
-        "decimals": 18,
-        "chainId": 80094,
-        "tags": []
-    },
-    {
-        "name": "WINK",
-        "symbol": "WINK",
-        "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
-        "decimals": 18,
-        "chainId": 43114,
-        "tags": []
-    },
-    {
-        "name": "Solana",
-        "symbol": "SOL",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 9,
-        "chainId": 1399811149,
-        "tags": []
-    },
-    {
-        "name": "Wrapped SOL",
-        "symbol": "wSOL",
-        "address": "So11111111111111111111111111111111111111112",
-        "decimals": 9,
-        "chainId": 1399811149,
-        "tags": []
-    },
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "decimals": 6,
-        "chainId": 1399811149,
-        "tags": []
-    },
-    {
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "decimals": 6,
-        "chainId": 1399811149,
-        "tags": []
-    },
-    {
-        "name": "MONAD",
-        "symbol": "MON",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 10143,
-        "tags": []
-    },
-    {
-        "name": "Wrapped MONAD",
-        "symbol": "WMON",
-        "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
-        "decimals": 18,
-        "chainId": 10143,
-        "tags": []
-    },
-    {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
-        "decimals": 6,
-        "chainId": 10143,
-        "tags": []
-    },
-    {
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
-        "decimals": 6,
-        "chainId": 10143,
-        "tags": []
-    },
-    {
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "address": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
-        "decimals": 8,
-        "chainId": 10143,
-        "tags": []
-    },
-    {
-        "name": "Wrapped ETH",
-        "symbol": "WETH",
-        "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
-        "decimals": 18,
-        "chainId": 10143,
-        "tags": []
-    }
+  {
+    "name": "Binance Pegged Bitcoin",
+    "symbol": "BTCB",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Binance Pegged ETH",
+    "symbol": "ETH",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "chainId": 56,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Binance Pegged USD Coin",
+    "symbol": "USDC",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "chainId": 56,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Binance Pegged USDT",
+    "symbol": "USDT",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "chainId": 56,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Aerodrome",
+    "symbol": "AERO",
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "aixbt by Virtuals",
+    "symbol": "AIXBT",
+    "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "HeyAnon",
+    "symbol": "ANON",
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Brett",
+    "symbol": "BRETT",
+    "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "CBBTC",
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "decimals": 8,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Cookie",
+    "symbol": "COOKIE",
+    "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "doginme",
+    "symbol": "DOGINME",
+    "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Freysa",
+    "symbol": "FAI",
+    "address": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "GAME by Virtuals",
+    "symbol": "GAME",
+    "address": "0x1c4cca7c5db003824208adda61bd749e55f463a3",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Keyboard Cat",
+    "symbol": "KEYCAT",
+    "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Unit 00 - Rei",
+    "symbol": "REI",
+    "address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "SKI MASK DOG",
+    "symbol": "SKI",
+    "address": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Spectral Token",
+    "symbol": "SPEC",
+    "address": "0x96419929d7949d6a801a6909c145c8eef6a40431",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "decimals": 6,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "VaderAI by Virtuals",
+    "symbol": "VADER",
+    "address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Moonwell",
+    "symbol": "WELL",
+    "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "MONAD",
+    "symbol": "MON",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+    "decimals": 6,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+    "decimals": 6,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
+    "decimals": 8,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "Wrapped MONAD",
+    "symbol": "WMON",
+    "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Boop",
+    "symbol": "BOOP",
+    "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "ETH",
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "GMX",
+    "symbol": "GMX",
+    "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Camelot Token",
+    "symbol": "GRAIL",
+    "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "HEGIC",
+    "symbol": "HEGIC",
+    "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "TraderJoe Token",
+    "symbol": "JOE",
+    "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "MAGIC",
+    "symbol": "MAGIC",
+    "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Radiant v2",
+    "symbol": "RDNT",
+    "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Stargate Token",
+    "symbol": "STG",
+    "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "decimals": 6,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "decimals": 6,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Tether Token",
+    "symbol": "USDT",
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "decimals": 6,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "decimals": 8,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "WOO",
+    "symbol": "WOO",
+    "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xb6076c93701d6a07266c31066b298aec6dd65c2d",
+    "decimals": 6,
+    "chainId": 43113,
+    "tags": []
+  },
+  {
+    "name": "USD Tether",
+    "symbol": "USDT",
+    "address": "0xab231a5744c8e6c45481754928ccffffd4aa0732",
+    "decimals": 6,
+    "chainId": 43113,
+    "tags": []
+  },
+  {
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "address": "0xd00ae08403b9bbb9124bb305c09058e32c39a48c",
+    "decimals": 18,
+    "chainId": 43113,
+    "tags": []
+  },
+  {
+    "name": "ArenaToken",
+    "symbol": "ARENA",
+    "address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "AVAX",
+    "symbol": "AVAX",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Bitcoin (BTC.b)",
+    "symbol": "BTC.b",
+    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "decimals": 8,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "COQINU (COQ)",
+    "symbol": "COQ",
+    "address": "0x420fca0121dc28039145009570975747295f2329",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "JOE token",
+    "symbol": "JOE",
+    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "yellow ket",
+    "symbol": "KET",
+    "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Benqi",
+    "symbol": "QI",
+    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Staked AVAX",
+    "symbol": "sAVAX",
+    "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Tether Token",
+    "symbol": "USDT",
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "decimals": 8,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH.e",
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "WINK",
+    "symbol": "WINK",
+    "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BYUSD",
+    "symbol": "BYUSD",
+    "address": "0x688e72142674041f8f6af4c808a4045ca1d6ac82",
+    "decimals": 6,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "HONEY",
+    "symbol": "HONEY",
+    "address": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Infrared BERA",
+    "symbol": "iBERA",
+    "address": "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Infrared BGT",
+    "symbol": "iBGT",
+    "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "address": "0x5b82028cfc477c4e7dda7ff33d59a23fa7be002a",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "NECTAR",
+    "symbol": "NECT",
+    "address": "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Ramen Token",
+    "symbol": "Ramen",
+    "address": "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+    "decimals": 6,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Bera",
+    "symbol": "WBERA",
+    "address": "0x6969696969696969696969696969696969696969",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Drift",
+    "symbol": "DRIFT",
+    "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GIGACHAD",
+    "symbol": "GIGA",
+    "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Helium Network Token",
+    "symbol": "HNT",
+    "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "IO",
+    "symbol": "IO",
+    "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "JITO",
+    "symbol": "JTO",
+    "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Magic Eden",
+    "symbol": "ME",
+    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Melania Meme",
+    "symbol": "MELANIA",
+    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Nosana",
+    "symbol": "NOS",
+    "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Orca",
+    "symbol": "ORCA",
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Popcat",
+    "symbol": "POPCAT",
+    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Render Token",
+    "symbol": "RENDER",
+    "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SPX6900 (Wormhole)",
+    "symbol": "SPX",
+    "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Tensor",
+    "symbol": "TNSR",
+    "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Wrapped SOL",
+    "symbol": "wSOL",
+    "address": "So11111111111111111111111111111111111111112",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  }
 ]
