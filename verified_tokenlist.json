@@ -10488,6 +10488,14 @@
     "tags": []
   },
   {
+    "name": "Splenium",
+    "symbol": "SAI",
+    "address": "0x13b540442a6a5E523dACabBeF7eE9f3B22245f90",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
     "name": "GenomesDAO Governance (deprecated)",
     "symbol": "OLD-GNOME",
     "address": "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b",
