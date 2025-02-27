@@ -20170,7 +20170,7 @@
   {
     "name": "BNB",
     "symbol": "BNB",
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "address": "0x0000000000000000000000000000000000000000",
     "decimals": 18,
     "chainId": 56,
     "tags": []
