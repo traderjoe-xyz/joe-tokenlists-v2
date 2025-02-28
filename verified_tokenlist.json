@@ -19304,6 +19304,14 @@
     "tags": []
   },
   {
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "address": "0xFDfdFD005F127334F7c4eeFEF2252D2BF4B6E79E",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
     "name": "Wrapped sFTW",
     "symbol": "wsFTW",
     "address": "0xe428c32fe2dfde4e25e9bb37c690ce22229f21ac",
@@ -19315,6 +19323,14 @@
     "name": "predict",
     "symbol": "predict",
     "address": "0xe46b44179db3af934da552b35ff8869e98dc6af5",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "address": "0xFDfdFD005F127334F7c4eeFEF2252D2BF4B6E79E",
     "decimals": 18,
     "chainId": 43114,
     "tags": []
@@ -19384,6 +19400,14 @@
     "tags": []
   },
   {
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "address": "0xFDfdFD005F127334F7c4eeFEF2252D2BF4B6E79E",
+    "decimals": 18,
+    "chainId": 56,
+    "tags": []
+  },
+  {
     "name": "Kai Inu",
     "symbol": "KaiInu",
     "address": "0xe5a09784b16e1065c37df14c6e2f06fdce317a1b",
@@ -19403,6 +19427,14 @@
     "name": "MusicProtocolRECORDToken",
     "symbol": "RECORD",
     "address": "0xe642657e4f43e6dcf0bd73ef24008394574dee28",
+    "decimals": 18,
+    "chainId": 8453,
+    "tags": []
+  },
+  {
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "address": "0xFDfdFD005F127334F7c4eeFEF2252D2BF4B6E79E",
     "decimals": 18,
     "chainId": 8453,
     "tags": []
