@@ -968,6 +968,14 @@
     "tags": []
   },
   {
+    "name": "Lamina1",
+    "symbol": "L1",
+    "address": "0xFec5906e8470Ea7e2a2242B314A35F4FF42B19e1",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
     "name": "Aardvark",
     "symbol": "VARK",
     "address": "0x09579452bc3872727a5d105f342645792bb8a82b",
