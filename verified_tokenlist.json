@@ -36766,13 +36766,21 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
     "decimals": 18,
     "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "decimals": 6,
+    "chainId": 8453,
     "tags": []
   }
 ]
