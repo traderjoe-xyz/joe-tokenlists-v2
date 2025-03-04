@@ -21838,5 +21838,13 @@
         "decimals": 8,
         "chainId": 43114,
         "tags": []
+    },
+    {
+        "name": "Blub the Blob",
+        "symbol": "Blub",
+        "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+        "decimals": 18,
+        "chainId": 43114,
+        "tags": []
     }
 ]
