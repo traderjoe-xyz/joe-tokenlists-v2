@@ -25,7 +25,7 @@
   },
   {
     "name": "NANI",
-    "symbol": "⌘",
+    "symbol": "?",
     "address": "0x00000000000007c8612ba63df8ddefd9e6077c97",
     "decimals": 18,
     "chainId": 8453,
@@ -6280,8 +6280,8 @@
     "tags": []
   },
   {
-    "name": "birdón",
-    "symbol": "BIRDÓN",
+    "name": "bird?n",
+    "symbol": "BIRD?N",
     "address": "0x46a8615b7b75579504f465712913c190ce7bd12c",
     "decimals": 18,
     "chainId": 8453,
@@ -10640,8 +10640,8 @@
     "tags": []
   },
   {
-    "name": "USD₮0",
-    "symbol": "USD₮0",
+    "name": "USD?0",
+    "symbol": "USD?0",
     "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
     "decimals": 6,
     "chainId": 80094,
@@ -17304,7 +17304,7 @@
     "tags": []
   },
   {
-    "name": "Brett’s cat",
+    "name": "Brett?s cat",
     "symbol": "BALT",
     "address": "0xc9b6ef062fab19d3f1eabc36b1f2e852af1acd18",
     "decimals": 18,
@@ -20536,7 +20536,7 @@
     "tags": []
   },
   {
-    "name": "$BRAINS - your greed is my fuel 🤯🧠 by Virtuals",
+    "name": "$BRAINS - your greed is my fuel ?? by Virtuals",
     "symbol": "BRAINS",
     "address": "0xf25b7dd973e30dcf219fbed7bd336b9ab5a05dd9",
     "decimals": 18,
@@ -21112,7 +21112,7 @@
     "tags": []
   },
   {
-    "name": "Eolas ☴",
+    "name": "Eolas ?",
     "symbol": "EOLAS",
     "address": "0xf878e27afb649744eec3c5c0d03bc9335703cfe3",
     "decimals": 18,
@@ -21592,8 +21592,8 @@
     "tags": []
   },
   {
-    "name": "USD₮0",
-    "symbol": "USD₮0",
+    "name": "USD?0",
+    "symbol": "USD?0",
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "decimals": 6,
     "chainId": 42161,
@@ -22440,7 +22440,7 @@
     "tags": []
   },
   {
-    "name": "SōzōAI",
+    "name": "S?z?AI",
     "symbol": "SOAI",
     "address": "2uic5Siiu6kwPoHZDHnhvH1MySx1vmLkVmzUTkc3pump",
     "decimals": 6,
@@ -23136,8 +23136,8 @@
     "tags": []
   },
   {
-    "name": "████████",
-    "symbol": "███",
+    "name": "????????",
+    "symbol": "???",
     "address": "3QGGLYLu251jE9Ra8jkGtuHb773xYciXeqqvUgNTGimE",
     "decimals": 9,
     "chainId": 1399811149,
@@ -24480,7 +24480,7 @@
     "tags": []
   },
   {
-    "name": "Xiaohongshu Cat Paofu 王泡芙",
+    "name": "Xiaohongshu Cat Paofu ???",
     "symbol": "PAOFU",
     "address": "5o9knHKZtdtmsovyDQymEYFZ8CfgL6wV6hgt2zrhpump",
     "decimals": 6,
@@ -25304,7 +25304,7 @@
     "tags": []
   },
   {
-    "name": "xixi 嘻嘻",
+    "name": "xixi ??",
     "symbol": "XIXI",
     "address": "6sNmypexudtz8d1ewp2GYywXA9KcheKwLa3zovgUhBuc",
     "decimals": 9,
@@ -25624,7 +25624,7 @@
     "tags": []
   },
   {
-    "name": "HUA HUA | 花花",
+    "name": "HUA HUA | ??",
     "symbol": "HUAHUA",
     "address": "77RBCP95AFT9XRsx4xuGUHjBQsjcatGYCZ2VXx8Epump",
     "decimals": 6,
@@ -26112,7 +26112,7 @@
     "tags": []
   },
   {
-    "name": "ORGANIC•BITCORN",
+    "name": "ORGANIC?BITCORN",
     "symbol": "CORN",
     "address": "7PKN3kto5SgM52GD8dRHVSVZKArL4vQvuuSTQgnqoScH",
     "decimals": 2,
@@ -26144,7 +26144,7 @@
     "tags": []
   },
   {
-    "name": "Knot Diffie–Hellman",
+    "name": "Knot Diffie?Hellman",
     "symbol": "KNOT",
     "address": "7RDvypx3p9EWq4nZZKux1ZQAc7DUWXpHTVKxCCnupump",
     "decimals": 6,
@@ -27416,7 +27416,7 @@
     "tags": []
   },
   {
-    "name": "Crazy Pig 🐷",
+    "name": "Crazy Pig ?",
     "symbol": "$PIG",
     "address": "9dD3meU6G5gSrGMXy9Vs2gbnm5A4LM4oN3dWPxi7pump",
     "decimals": 6,
@@ -28064,7 +28064,7 @@
     "tags": []
   },
   {
-    "name": "Chiitan☆Coin",
+    "name": "Chiitan?Coin",
     "symbol": "CTAN",
     "address": "A3gMddXMAhmc3P9dLjHv2n6ywWWzpGZbRCH6y8sta8ug",
     "decimals": 9,
@@ -28784,7 +28784,7 @@
     "tags": []
   },
   {
-    "name": "TRUMP’S HAT",
+    "name": "TRUMP?S HAT",
     "symbol": "MAGA",
     "address": "AwduJQUJoSCZm5BUdhF99iZkUTUGHU34TPft8w5kNbw1",
     "decimals": 9,
@@ -31089,7 +31089,7 @@
   },
   {
     "name": "Cat",
-    "symbol": "🐈",
+    "symbol": "?",
     "address": "DFwxYdmfLJsPTyrNJCapGadF58Y74e2TFpVAyhbgpump",
     "decimals": 6,
     "chainId": 1399811149,
@@ -31137,7 +31137,7 @@
   },
   {
     "name": "Dog",
-    "symbol": "🐕",
+    "symbol": "?",
     "address": "DLScRnWofxiYGqnvZWGy9Gt98MPqKdznaK4TRukxpump",
     "decimals": 6,
     "chainId": 1399811149,
@@ -32769,7 +32769,7 @@
   },
   {
     "name": "MIST",
-    "symbol": "霞",
+    "symbol": "?",
     "address": "FjTJCCQpLU4fpH58mN1bTQXiQsjJVYai3QYFjYqYpump",
     "decimals": 6,
     "chainId": 1399811149,
@@ -32920,7 +32920,7 @@
     "tags": []
   },
   {
-    "name": "MuskDonald’s",
+    "name": "MuskDonald?s",
     "symbol": "MUDO",
     "address": "FPkwvXdbiE1ZWCj7SKj9ixVqgFZKNttzzKNSWVPD6XsK",
     "decimals": 6,
@@ -33560,7 +33560,7 @@
     "tags": []
   },
   {
-    "name": "StarShip🚀",
+    "name": "StarShip?",
     "symbol": "STSHIP",
     "address": "GHtLF7drbYXGTHX73uSxqPKkJUzDqcBNe2M9fzjJzr3j",
     "decimals": 8,
@@ -33776,7 +33776,7 @@
     "tags": []
   },
   {
-    "name": "Z̶A̴I̴L̶G̶O̸",
+    "name": "Z?A?I?L?G?O?",
     "symbol": "ZAILGO",
     "address": "GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump",
     "decimals": 6,
@@ -34000,7 +34000,7 @@
     "tags": []
   },
   {
-    "name": "TANUKI•WISDOM",
+    "name": "TANUKI?WISDOM",
     "symbol": "TANUKI",
     "address": "GUUFsneDFrEgYwV2ngpvpMdAmwFjhFknA5eL7ehkeFf8",
     "decimals": 2,
@@ -34576,7 +34576,7 @@
     "tags": []
   },
   {
-    "name": "What’s Updog?",
+    "name": "What?s Updog?",
     "symbol": "UPDOG",
     "address": "HJ39rRZ6ys22KdB3USxDgNsL7RKiQmsC3yL8AS3Suuku",
     "decimals": 9,
@@ -34888,8 +34888,8 @@
     "tags": []
   },
   {
-    "name": "🟥🟪🟦🟩🟨🟧",
-    "symbol": "🟥🟩",
+    "name": "??????",
+    "symbol": "??",
     "address": "HwPtbFpd3VTe3tfyosoVtPf9WPuSk5gAKkN5xp6Npump",
     "decimals": 6,
     "chainId": 1399811149,
@@ -35081,7 +35081,7 @@
   },
   {
     "name": "sentient memes producer",
-    "symbol": "MΞMΞTIC",
+    "symbol": "M?M?TIC",
     "address": "J73VLpgUiWxooiTwbQyae7h5e29kGrC5RqrbicW2pump",
     "decimals": 6,
     "chainId": 1399811149,
@@ -36766,13 +36766,21 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
     "decimals": 18,
     "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "decimals": 6,
+    "chainId": 8453,
     "tags": []
   }
 ]
