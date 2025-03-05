@@ -18928,6 +18928,14 @@
     "tags": []
   },
   {
+    "name": "ALBERT",
+    "symbol": "ALBERT",
+    "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
     "name": "Long Johnson",
     "symbol": "OLONG",
     "address": "0xdfb20f7297aad51e883bba1d21a46defb097c821",
