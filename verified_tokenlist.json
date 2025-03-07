@@ -19280,6 +19280,14 @@
     "tags": []
   },
   {
+    "name": "Woof",
+    "symbol": "WOOF",
+    "address": "0x35A7341Ae0adb31Cb210524D4D02563c061Feac5",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
     "name": "StargateToken",
     "symbol": "STG",
     "address": "0xe3b53af74a4bf62ae5511055290838050bf764df",
