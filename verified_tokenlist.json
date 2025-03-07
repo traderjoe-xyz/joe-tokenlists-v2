@@ -19283,7 +19283,7 @@
     "name": "Woof",
     "symbol": "WOOF",
     "address": "0x35A7341Ae0adb31Cb210524D4D02563c061Feac5",
-    "decimals": 9,
+    "decimals": 18,
     "chainId": 43114,
     "tags": []
   },
