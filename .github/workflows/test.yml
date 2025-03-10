@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run validations
-        run: ./validate.sh
+        run: ./.github/workflows/validate.sh
