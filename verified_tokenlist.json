@@ -36782,11 +36782,19 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Loksmith",
+    "symbol": "LOK",
+    "address": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3",
     "decimals": 18,
     "chainId": 43114,
     "tags": []
