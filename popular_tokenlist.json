@@ -926,5 +926,13 @@
     "decimals": 9,
     "chainId": 1399811149,
     "tags": []
+  },
+  {
+    "name": "Tether Token",
+    "symbol": "USDT",
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "decimals": 6,
+    "chainId": 42161,
+    "tags": []
   }
 ]
