@@ -36790,5 +36790,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Spacem Token",
+    "symbol": "SPACEM",
+    "address": "0x3c780f5cbf94de3efcec964af928d08c4508eebe",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
