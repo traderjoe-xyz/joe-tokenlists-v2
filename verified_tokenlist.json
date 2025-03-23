@@ -36782,11 +36782,19 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Automatic AVAX Rewards",
+    "symbol": "AAR",
+    "address": "0xefeef2b1d465db98febf3bd637ae99c7f5340159",
     "decimals": 18,
     "chainId": 43114,
     "tags": []
