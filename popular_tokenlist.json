@@ -960,14 +960,6 @@
     "tags": []
   },
   {
-    "name": "The Infinite Garden",
-    "symbol": "ETH",
-    "address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
-    "chainId": 1,
-    "decimals": 18,
-    "tags": []
-  },
-  {
     "name": "Chainlink",
     "symbol": "LINK",
     "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
@@ -1136,9 +1128,9 @@
     "tags": []
   },
   {
-    "name": "Legacy Morpho",
+    "name": "Morpho",
     "symbol": "MORPHO",
-    "address": "0x9994e35db50125e0df82e4c2dde62496ce330999",
+    "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
     "chainId": 1,
     "decimals": 18,
     "tags": []
