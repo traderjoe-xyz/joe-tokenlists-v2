@@ -36782,13 +36782,21 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
     "decimals": 18,
     "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Wrapped SOL",
+    "symbol": "WSOL",
+    "address": "0x5387c85a4965769f6b0df430638a1388493486f1",
+    "decimals": 9,
+    "chainId": 10143,
     "tags": []
   }
 ]
