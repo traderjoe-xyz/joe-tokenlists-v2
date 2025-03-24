@@ -958,5 +958,213 @@
     "decimals": 6,
     "chainId": 1,
     "tags": []
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "chainId": 1,
+    "decimals": 8,
+    "tags": []
+  },
+  {
+    "name": "UNICORN",
+    "symbol": "UNI",
+    "address": "0x2730d6fdc86c95a74253beffaa8306b40fedecbb",
+    "chainId": 1,
+    "decimals": 8,
+    "tags": []
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Curve DAO",
+    "symbol": "CRV",
+    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "symbol": "FET",
+    "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Maker",
+    "symbol": "MKR",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Plume",
+    "symbol": "PLUME",
+    "address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0x808507121b80c02388fad14726482e061b8da827",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Wrapped stETH",
+    "symbol": "WSTETH",
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Mantle Staked Ether",
+    "symbol": "METH",
+    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Ethena",
+    "symbol": "ENA",
+    "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Eigenlayer",
+    "symbol": "EIGEN",
+    "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Morpho",
+    "symbol": "MORPHO",
+    "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Echelon Prime",
+    "symbol": "PRIME",
+    "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Rollbit Coin",
+    "symbol": "RLB",
+    "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Ethena USDe",
+    "symbol": "USDe",
+    "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "chainId": 1,
+    "decimals": 18,
+    "tags": []
   }
 ]
