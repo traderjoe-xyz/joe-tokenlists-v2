@@ -36782,12 +36782,20 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
-  },   
+  },
   {
     "name": "Blub the Blob",
     "symbol": "Blub",
     "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
     "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
+    "name": "Aladeen.io",
+    "symbol": "ALADEEN",
+    "address": "0x3c655f60597c939a22264289411779a4c412836e",
+    "decimals": 6,
     "chainId": 43114,
     "tags": []
   }
