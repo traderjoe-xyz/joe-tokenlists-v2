@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Perena",
+    "symbol": "P1",
+    "address": "0x44369aafdd04cd9609a57ec0237884f45dd80818",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
