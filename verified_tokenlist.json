@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Lil Coq",
+    "symbol": "LIL",
+    "address": "0x22683bbadd01473969f23709879187705a253763",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
