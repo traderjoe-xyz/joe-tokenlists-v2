@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Nomas",
+    "symbol": "NOM",
+    "address": "0xafb0d64f308423d16ef8833b901dbdd750554438",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
