@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Reddio",
+    "symbol": "RED",
+    "address": "0x92eac40c98b383ea0f0efda747bdac7ac891d300",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
