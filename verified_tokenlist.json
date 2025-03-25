@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "BERZAN",
+    "symbol": "BERZAN",
+    "address": "0xf793fde80c3a92eb8a6074803ca6976c87b1a90a",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
