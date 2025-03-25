@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Nexus",
+    "symbol": "NEX",
+    "address": "0x88aac8165144564ee8b8abdc9099992345fbb56a",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
