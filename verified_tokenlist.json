@@ -36798,5 +36798,13 @@
     "decimals": 9,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Kintsu Staked Monad",
+    "symbol": "sMON",
+    "address": "0xe1d2439b75fb9746e7bc6cb777ae10aa7f7ef9c5",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
