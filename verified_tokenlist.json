@@ -36806,5 +36806,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Bellum",
+    "symbol": "BELL",
+    "address": "0xf3c8e0e1ff9824ee7a8cdfcca51d4962960d290b",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
