@@ -1166,5 +1166,133 @@
     "chainId": 1,
     "decimals": 18,
     "tags": []
+  },
+  {
+    "name": "Bridged USDC",
+    "symbol": "USDC",
+    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "chainId": 146,
+    "decimals": 6,
+    "tags": []
+  },
+  {
+    "name": "Bridged USDT",
+    "symbol": "USDT",
+    "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+    "chainId": 146,
+    "decimals": 6,
+    "tags": []
+  },
+  {
+    "name": "Sonic",
+    "symbol": "S",
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Bridged Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Eggs Finance",
+    "symbol": "EGGS",
+    "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Hey Anon",
+    "symbol": "ANON",
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "GOGGLES",
+    "symbol": "GOGLZ",
+    "address": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Metropolis",
+    "symbol": "METRO",
+    "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "SwapX",
+    "symbol": "SWPX",
+    "address": "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Paintswap",
+    "symbol": "BRUSH",
+    "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Derp",
+    "symbol": "DERP",
+    "address": "0xe920d1da9a4d59126dc35996ea242d60efca1304",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "chainId": 146,
+    "decimals": 8,
+    "tags": []
+  },
+  {
+    "name": "Shadow",
+    "symbol": "SHADOW",
+    "address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Beets Staked Sonic",
+    "symbol": "STS",
+    "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Shadow Liquid Staking Token",
+    "symbol": "x33",
+    "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+    "chainId": 146,
+    "decimals": 18,
+    "tags": []
   }
 ]
