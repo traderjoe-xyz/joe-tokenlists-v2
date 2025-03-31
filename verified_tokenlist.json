@@ -2344,14 +2344,6 @@
     "tags": []
   },
   {
-    "name": "BallZ",
-    "symbol": "BALLZ",
-    "address": "0x1965a5f87e540aa29f9e68fb1f46350401e83657",
-    "decimals": 18,
-    "chainId": 43114,
-    "tags": []
-  },
-  {
     "name": "Pepe Inscriptions",
     "symbol": "PEPI",
     "address": "0x19706c142d33376240e418d6385f05691a5fa8e2",
