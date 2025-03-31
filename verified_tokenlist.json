@@ -36806,5 +36806,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Gold Fever Native Gold",
+    "symbol": "NGL",
+    "address": "0x441eed9fee4f002c541abc91075d35cd28fd6f7d",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
