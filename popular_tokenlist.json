@@ -616,6 +616,14 @@
     "tags": []
   },
   {
+    "name": "Ultravioleta Token",
+    "symbol": "UVT",
+    "address": "0x281027C6a46142D6FC57f12665147221CE69Af33",
+    "chainId": 43114,
+    "decimals": 18,
+    "tags": []
+  },
+  {
     "name": "BERA Token",
     "symbol": "BERA",
     "address": "0x0000000000000000000000000000000000000000",
