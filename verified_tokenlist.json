@@ -36814,5 +36814,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Mu Coin",
+    "symbol": "MU",
+    "address": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
