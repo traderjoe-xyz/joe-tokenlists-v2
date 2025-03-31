@@ -26,7 +26,7 @@ echo "All required keys are present in each token."
 # -----------------------------
 # Check allowed 'chainId' values
 # -----------------------------
-ALLOWED_CHAIN_IDS=(1 42161 421613 56 97 8453 10143 42161 43113 43114 80084 80094 1399811149 146)
+ALLOWED_CHAIN_IDS=(1 42161 421613 56 97 146 8453 10143 42161 43113 43114 80084 80094 1399811149 146)
 # Convert bash array to jq array format
 JQ_ALLOWED_CHAIN_IDS=$(printf "[%s]" "$(IFS=, ; echo "${ALLOWED_CHAIN_IDS[*]}")")
 
