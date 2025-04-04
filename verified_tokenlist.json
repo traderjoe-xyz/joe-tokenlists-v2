@@ -36830,5 +36830,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "BOB",
+    "symbol": "BOB",
+    "address": "0xb7989d1b543a9bdd5251ae2417b7700f2f654aa0",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
