@@ -36830,5 +36830,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "BOY Coin",
+    "symbol": "BOY",
+    "address": "0xfc938afa9f495473127e697fef621a9bd90a4d0d",
+    "decimals": 9,
+    "chainId": 56,
+    "tags": []
   }
 ]
