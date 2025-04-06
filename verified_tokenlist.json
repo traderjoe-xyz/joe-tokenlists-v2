@@ -36830,5 +36830,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "GIRL Coin",
+    "symbol": "GIRL",
+    "address": "0xe14dd334789895c7c7552dd732bf81d079f6b3c5",
+    "decimals": 9,
+    "chainId": 56,
+    "tags": []
   }
 ]
