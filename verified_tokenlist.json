@@ -36830,5 +36830,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "MUON Network",
+    "symbol": "MUON",
+    "address": "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
