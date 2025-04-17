@@ -36838,5 +36838,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "AuTistiC BoYs CLub",
+    "symbol": "ABC",
+    "address": "0x18cffcbb1ea17ae665dfd44e6464f09d8618d8cd",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
