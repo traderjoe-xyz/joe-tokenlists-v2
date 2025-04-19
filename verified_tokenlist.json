@@ -21792,6 +21792,14 @@
     "tags": []
   },
   {
+    "name": "Ultravioleta Token",
+    "symbol": "UVT",
+    "address": "0x281027C6a46142D6FC57f12665147221CE69Af33",
+    "chainId": 43114,
+    "decimals": 18,
+    "tags": []
+  },
+  {
     "name": "MUV003 - Flagship EURC",
     "symbol": "MUV003_EURC",
     "address": "0xff3035968a44df696297d710cb7c0d7f807bf641",
