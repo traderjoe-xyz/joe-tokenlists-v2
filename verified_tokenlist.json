@@ -25457,5 +25457,13 @@
     "decimals": 18,
     "chainId": 146,
     "tags": []
+  },
+  {
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
   }
 ]
