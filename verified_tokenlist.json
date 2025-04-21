@@ -24137,5 +24137,1325 @@
     "decimals": 6,
     "chainId": 1399811149,
     "tags": []
+  },
+  {
+    "name": "Wrapped Sonic",
+    "symbol": "wS",
+    "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Bridged EURC",
+    "symbol": "EURC.e",
+    "address": "0xe715cba7b5ccb33790cebff1436809d36cb17e57",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Ether on Sonic",
+    "symbol": "WETH",
+    "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "GOGGLES",
+    "symbol": "GOGLZ",
+    "address": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Beets Staked Sonic",
+    "symbol": "stS",
+    "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic USD",
+    "symbol": "scUSD",
+    "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Ruggie's Pizza",
+    "symbol": "RUGGIE",
+    "address": "0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Indi",
+    "symbol": "INDI",
+    "address": "0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "HeyAnon",
+    "symbol": "Anon",
+    "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Tin Hat Cat",
+    "symbol": "THC",
+    "address": "0x17af1df44444ab9091622e4aa66db5bb34e51ad5",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Derp Token",
+    "symbol": "DERP",
+    "address": "0xe920d1da9a4d59126dc35996ea242d60efca1304",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic ETH",
+    "symbol": "scETH",
+    "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SupraFi Staked Sonic",
+    "symbol": "sS",
+    "address": "0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Candle Token",
+    "symbol": "CANDLE",
+    "address": "0xffc05d77e021f12878644537398160a54e33b5e4",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "DiddyScrotumFree",
+    "symbol": "Moist",
+    "address": "0x690d956d97d3eee18ab68ed1a28a89d531734f3d",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Familio",
+    "symbol": "F",
+    "address": "0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SuperSonicSpeedDemon",
+    "symbol": "SPEED",
+    "address": "0x9990de39ca46151150e392ca96eb349d0f549166",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "FantomSonicInu",
+    "symbol": "fSONIC",
+    "address": "0x05e31a691405d06708a355c029599c12d5da8b28",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Muttski",
+    "symbol": "WOOF",
+    "address": "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
+    "decimals": 9,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SonicEco",
+    "symbol": "ECO",
+    "address": "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "BEARZWIFGUNZ180042069",
+    "symbol": "180042069",
+    "address": "0xf1c9b8171bf3902554e791010ccbcd6bacba6efd",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic Kings",
+    "symbol": "K",
+    "address": "0x7732cda61c9f7852c8a016b815f07ccd067a918f",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic Goat",
+    "symbol": "sGOAT",
+    "address": "0x43f9a13675e352154f745d6402e853fecc388aa5",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "PLUS",
+    "symbol": "PLUS",
+    "address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "HEDGY the hedgehog",
+    "symbol": "HEDGY",
+    "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SolvBTC Babylon",
+    "symbol": "SolvBTC.BBN",
+    "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "PaintSwap",
+    "symbol": "BRUSH",
+    "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "PHANIC",
+    "symbol": "PHANIC",
+    "address": "0xb4f58eeabe36711d72e99f35cbf36210561522be",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Moon Bay",
+    "symbol": "MOON",
+    "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "sDOG",
+    "symbol": "sDOG",
+    "address": "0x50bc6e1dff8039a4b967c1bf507ba5ea13fa18b6",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SuperSaiyanSonic",
+    "symbol": "SSS",
+    "address": "0x051b94b2f176aea8b1058d3d4173bceec2a193bc",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SUPER",
+    "symbol": "SUPER",
+    "address": "0x07803cc672adf17db5bab287f48e7ea140b14509",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Fanties",
+    "symbol": "Fantie",
+    "address": "0x9c507f61f6108606a001c8d738e15b30c3f4c119",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Aurum",
+    "symbol": "AUR",
+    "address": "0x7f144f8691cba3d2efd8e5bcf042f9303ee31a46",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Waves",
+    "symbol": "WAV",
+    "address": "0xca7f35e9209d90769b65bc4984efb7d7ce022259",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Shrimp Token",
+    "symbol": "SHRIMP",
+    "address": "0x873e509a21b106937472834201d653ba62951c7e",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "ThankYouSonicGod",
+    "symbol": "TYSG",
+    "address": "0x56192e94434c4fd3278b4fa53039293fb00de3db",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SONIC PUB",
+    "symbol": "SPUB",
+    "address": "0xb5a10bd15af95381d830f71e85328f2d1d823de7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SONICBEER",
+    "symbol": "SBEER",
+    "address": "0x93cd403693da40d27188714a872943f717e3c543",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Atoll ETH",
+    "symbol": "atETH",
+    "address": "0x284d81e48fbc782aa9186a03a226690aea5cbe0e",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Atoll Governance Token",
+    "symbol": "ATOLL",
+    "address": "0xd1da314f7db27dbe3c61ac172be13d86e67688b7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sacra Gem 1",
+    "symbol": "SACRA_GEM_1",
+    "address": "0xfc0dd337b92baa949bc5d25fd9a99cb3b6873204",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Shedew Hegehog",
+    "symbol": "SHEDEW",
+    "address": "0x69690ed6644b0e735c05b49034b6283ed5bb6969",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sacra token",
+    "symbol": "SACRA",
+    "address": "0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Whale",
+    "symbol": "WHALE",
+    "address": "0x068e9e009fda970fa953e1f6a43d982ca991f4ba",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Treasure Keep",
+    "symbol": "TK",
+    "address": "0x1ecfa7a6434159217aeb4f1594830ea7f9cb8d40",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Moo BIFI",
+    "symbol": "mooBIFI",
+    "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Free Money Market",
+    "symbol": "fBUX",
+    "address": "0xd43b5d6899635e514a00b475eea04c364979e076",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "xShadow",
+    "symbol": "xSHADOW",
+    "address": "0x5050bc082ff4a74fb6b0b04385defddb114b2424",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Paladin Token",
+    "symbol": "PAL",
+    "address": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Blue Pepe",
+    "symbol": "BPEPE",
+    "address": "0xd81345187c8e2a24419996d0fea18ac60464ceb2",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "BLACKHOLE",
+    "symbol": "BOL",
+    "address": "0x38628cb4cc74cbdfb6ddd877b17c1f60fcae7c2c",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Fuego",
+    "symbol": "FUEGO",
+    "address": "0xac9ef66dc75e5340304d5cc48e185ff5262ae3ac",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Shadow Liquid Staking Token",
+    "symbol": "x33",
+    "address": "0x3333111a391cc08fa51353e9195526a70b333333",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Origin Sonic",
+    "symbol": "OS",
+    "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Grok",
+    "symbol": "GROK",
+    "address": "0x0e3b1c9be555ec9806f6eab9bd101487f53cf0c9",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Shadow Wrapped Gems",
+    "symbol": "GEMS",
+    "address": "0x5555b2733602ded58d47b8d3d989e631cbee5555",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "NAVI",
+    "symbol": "NAVI",
+    "address": "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Metropolis Token",
+    "symbol": "METRO",
+    "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "address": "0x53f753e4b17f4075d6fa2c6909033d224b81e698",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Staked Sonic USD",
+    "symbol": "stkscUSD",
+    "address": "0x4d85ba8c3918359c78ed09581e5bc7578ba932ba",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Stability Gem Season 1",
+    "symbol": "sGEM1",
+    "address": "0x9a08cd5691e009cc72e2a4d8e7f2e6ee14e96d6d",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "address": "0x7cb451ce10b578191acf609c41e92d3912e8edb3",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "address": "0x2fb960611bdc322a9a4a994252658cae9fe2eea1",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Millennium Club",
+    "symbol": "MCLB",
+    "address": "0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "FIERY",
+    "symbol": "FIERY",
+    "address": "0xf97d438bc03ad0f75b83ce5714c9619880b305bc",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Staked Sonic ETH",
+    "symbol": "stkscETH",
+    "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Metropolis Sonic GEM",
+    "symbol": "MGEM",
+    "address": "0x8a3b1cd8d0decf649262e56ece6b339e59f350db",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SNAKE",
+    "symbol": "SNAKE",
+    "address": "0x3a516e01f82c1e18916ed69a81dd498ef64bb157",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic IndeX",
+    "symbol": "fSIX",
+    "address": "0x94b999e05d1361a802ad6690c1b1ae3426a4e1a6",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Hubble Protocol Shares",
+    "symbol": "HUBBLE",
+    "address": "0xd441a37aa73fc1ddd2db99fc4c92f233b7d41cbd",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Uppies",
+    "symbol": "UPPIES",
+    "address": "0x9bcea390ff97e0d3362bf726820776a4df8add9a",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wrapped OS",
+    "symbol": "wOS",
+    "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Fate Adventure",
+    "symbol": "FA",
+    "address": "0x8ad39144b37741573f85aa03d6c3e817a0054161",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Fang Dao",
+    "symbol": "fDAO",
+    "address": "0x3b0cffda9a5ab64135c227638e777ceec0c243a8",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Poor ",
+    "symbol": "POOR",
+    "address": "0xe569821a7b621cc16c447c19297089b7205a6d30",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Eggs",
+    "symbol": "EGGS",
+    "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Yehrold",
+    "symbol": "YEH",
+    "address": "0x2ac457d7f225ac6e89edb6ac2cb21293d77ddfc9",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "PASSTHEJOINT",
+    "symbol": "JOINT",
+    "address": "0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "GSNAKE",
+    "symbol": "GSNAKE",
+    "address": "0x674a430f531847a6f8976a900f8ace765f896a1b",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Frax USD",
+    "symbol": "frxUSD",
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "OnlyX Social",
+    "symbol": "Onlyx",
+    "address": "0x196d13d000ea24593a64b1ebd5619aafb7295dad",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Mari",
+    "symbol": "$MARI",
+    "address": "0x194d7bc228d755fa2cb57014b030b9519e6c2a39",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Andrelio",
+    "symbol": "ANDR",
+    "address": "0x22ab0f58d80f7bfec1d3cf0beeba54e6bbef8442",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "c@t",
+    "symbol": "c@t",
+    "address": "0x67c15e7b0845038bb51148c681b5337fa6d0bb18",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Vicuna Gem Fragments - Season 1",
+    "symbol": "VicunaFragmentsS1",
+    "address": "0x25b0a02c8050943483ae5d68165ebcb47eb01148",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SonicAngels",
+    "symbol": "sANGELS",
+    "address": "0xd419b205e33e4034cefcc9997b8fd5ec11e239b8",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Smol Pepe ",
+    "symbol": "Pep",
+    "address": "0x9154d3acb082cb66c78ef2c7000d85138aa0b79f",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SPIKE",
+    "symbol": "SPIKE",
+    "address": "0x4e11c7a3ba216e283952c4bdc2b86b3594ebbe26",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SonicSuperFly",
+    "symbol": "ZUPA",
+    "address": "0x9c5100ba377e3e9db247f6d4bc7ffc9c24b59d08",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Accelerate",
+    "symbol": "accelerate",
+    "address": "0x92405bc58ac4c1ebf43d69bc7ca3cddfc335920e",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Solidex Monkey",
+    "symbol": "SEX",
+    "address": "0xbee65e9af970ef637a84293d238db4528a53bb47",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Moem Token",
+    "symbol": "MOEM",
+    "address": "0x08c96d947a21018788eb6a5c371ae97c3a4e9f88",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Cool Guy",
+    "symbol": "COOL",
+    "address": "0x833f4748290119edfe5eacbebd164f9219368fcd",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Bunchy",
+    "symbol": "BUNCHY",
+    "address": "0x6eb34dd562af0899386f538d9cc22bcce3f18d27",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Mikul Koong",
+    "symbol": "MIKUL",
+    "address": "0xcfae6e44e44dffd0179a942046ac8869c2eb43a4",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "CINOS",
+    "symbol": "C",
+    "address": "0x54f219469f8d6b938bd2d86d2b0256ed4cc3f8da",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Yoko",
+    "symbol": "YOKO",
+    "address": "0x59524d5667b299c0813ba3c99a11c038a3908fbc",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Andrott Weiler",
+    "symbol": "ANDROTT",
+    "address": "0x2efd87e7e38160cef2c49871505628196c6b1f44",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "KNUCKLES",
+    "symbol": "KNUCKLES",
+    "address": "0x377175c33b3495ff7c0d26d41db45cf40de49cde",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonichu",
+    "symbol": "Sonichu",
+    "address": "0x893a5f9ca92ca721089b6dab44949dbd70cbc711",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "decimals": 8,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic BTC",
+    "symbol": "scBTC",
+    "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
+    "decimals": 8,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Vloomverg",
+    "symbol": "",
+    "address": "0x263c45e626706e225dcd186ca6127f7f5fce0d22",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Staked Stream USD",
+    "symbol": "xUSD",
+    "address": "0x6202b9f02e30e5e1c62cc01e4305450e5d83b926",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "GandalfSigmaBidenDogeTeslaShrek1998HondaCivicBONK",
+    "symbol": "Cryptocurrency",
+    "address": "0x19980b81272dbe83f5dbaa0717af645060401998",
+    "decimals": 9,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Pierre Gasly",
+    "symbol": "GASLY",
+    "address": "0xc792a475432b23cdfabcbc4c507f127d88543567",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Haunted ICE",
+    "symbol": "ICE",
+    "address": "0x24b50d4bf6c9f2dc87a2a696c13cb7daaed92d45",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "CHADONIC",
+    "symbol": "CHADO",
+    "address": "0xf6a884c3433293625e71845bd225bb7320adb928",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Sonic Peng",
+    "symbol": "SPENG",
+    "address": "0x70317fc7b09dfea57f56f7e65820368bd976b342",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Eliteness.Network",
+    "symbol": "ELITE",
+    "address": "0x30c8cf6b46aa4df3f9fbc2857aca92f10a6cad7f",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "MATRIX",
+    "symbol": "MATRIX",
+    "address": "0x7e3db94eb504e4fd9d4ab4d0181956fb0cdbd0a5",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Stout",
+    "symbol": "STTX",
+    "address": "0x97a10beebb25e0ebfa55ca0a7d00e37afe957dea",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Stability",
+    "symbol": "STBL",
+    "address": "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SuperSonic",
+    "symbol": "SS",
+    "address": "0xf1d06a43ec169814582c1c03ae05048a96662dfa",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "OIL",
+    "symbol": "OIL",
+    "address": "0x31e2eed04a62b232da964a097d8c171584e3c3bd",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Coal",
+    "symbol": "COAL",
+    "address": "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "STONER404",
+    "symbol": "$STONER",
+    "address": "0x9b567e03d891f537b2b7874aa4a3308cfe2f4fbb",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SpinDash",
+    "symbol": "SpinDash",
+    "address": "0x5fd9cd00c975ccedb4298a562d132fb2683164d9",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wrapped stkscUSD",
+    "symbol": "wstkscUSD",
+    "address": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Wrapped stkscETH",
+    "symbol": "wstkscETH",
+    "address": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Staked Stream ETH",
+    "symbol": "xETH",
+    "address": "0x16af6b1315471dc306d47e9ccefed6e5996285b6",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "address": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
+    "decimals": 8,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "CIAN yield layer BTCLST",
+    "symbol": "ylBTCLST",
+    "address": "0xff6771a9565f18638fab2972ba7fc798ad8bcad0",
+    "decimals": 8,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Rome",
+    "symbol": "ROME",
+    "address": "0xc8449e006c5cb61959168f273c3e17fb8d2cd75e",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Dawae",
+    "symbol": "DAWAE",
+    "address": "0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "GHOG",
+    "symbol": "GHOG",
+    "address": "0x0e899da2ad0817ed850ce68f7f489688e4d42d9d",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Boom Token",
+    "symbol": "BOOM",
+    "address": "0xcc17dbc9eb1c29f90388fa197b983714fdaada46",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "CYI by Virtuals",
+    "symbol": "CYI",
+    "address": "0xe354be2a86badc8ea1105f35a13aef9b707c940a",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "decimals": 8,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Tiny Whisker",
+    "symbol": "TIINY",
+    "address": "0x4930be803bfb0faca970b64a031e09956e6f0140",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Relic",
+    "symbol": "RELIC",
+    "address": "0xf2968631d02330dc5e420373f083b7b4f8b24e17",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "address": "0x981bd9f77c8aafc14ebc86769503f86a3cc29af5",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "QUANT",
+    "symbol": "QUANT",
+    "address": "0x05357be6a973da0a43b9ab82c90bcc8a3ef074b7",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Peapods",
+    "symbol": "PEAS",
+    "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "pPEAS Sonic LVF Pod",
+    "symbol": "pPEAS",
+    "address": "0xae9c12949c4f1fc5b738231f45b72bfa4761f1cb",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Eggs in a Peapod",
+    "symbol": "pEGGS",
+    "address": "0xad4f4e3a86115be0b0767160d3038db830129d3a",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Shadow LVF Pod",
+    "symbol": "pSHADOW",
+    "address": "0x0d71ae6adbf3e83124e71104ab8d4465185fc9b8",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Derp pod",
+    "symbol": "pDERP",
+    "address": "0xd91f848b768e653063e312e3163f1b90258e6ca3",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Staked Sonic stS LVF Pod",
+    "symbol": "pstS",
+    "address": "0xcaf4ac913726b55bd0eae1a20f0a59516a8c1e5e",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Solis",
+    "symbol": "SOLIS",
+    "address": "0x42ed764ec17ff0bc4a0d0e6c09d1d6444233effd",
+    "decimals": 9,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "The_Herd_Mentality",
+    "symbol": "SHEEP",
+    "address": "0x7bf26df0e9db4f70f286c39a9cd3a77cb7407aa4",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SonicInu",
+    "symbol": "SINU",
+    "address": "0x04c64f7a19b1daf815a9726de56dad7cb82c4419",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "MLH Token",
+    "symbol": "MLH",
+    "address": "0x3b2ce558eec07099e668e4cf1c5b47aad2968785",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Meow",
+    "symbol": "MEOW",
+    "address": "0x59109f47f2b167f47e1615da46cc5f67dff0e034",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SHIELD",
+    "symbol": "SHIELD",
+    "address": "0x6706adb93117c0a7235dcbe639e12ed13fa5752f",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "xQUANT",
+    "symbol": "xQUANT",
+    "address": "0x4e583383c8389f469af337f932b14d276cbe0611",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Molten",
+    "symbol": "MOLTEN",
+    "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Myrd Token",
+    "symbol": "MYRD",
+    "address": "0xddddd1b4a383dcb89938bc8b8964cad3c632fad0",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Spectra Token",
+    "symbol": "SPECTRA",
+    "address": "0xb827e91c5cd4d6aca2fc0cd93a07db61896af40b",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Ex: Hubble Constant",
+    "symbol": "EX",
+    "address": "0xd4d197f3397c8f28f4bc2c698104cfbcc3e04802",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Stable Jack",
+    "symbol": "JACK",
+    "address": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SwapX",
+    "symbol": "SWPx",
+    "address": "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Aave Sonic USDC",
+    "symbol": "aSonUSDC",
+    "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+    "decimals": 6,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "BMX: Wrapped Sonic Liquidity Token",
+    "symbol": "wSLT",
+    "address": "0x2ddcf85d3cf27dea338e0371d38409ba80058630",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "SPIN IT",
+    "symbol": "SPIN",
+    "address": "0x777ecd9a05d4640133f6112f3aa777f1ed5acace",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Beefy Sonic",
+    "symbol": "beS",
+    "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
+  },
+  {
+    "name": "Mrrrr Always Right!",
+    "symbol": "MAR",
+    "address": "0x59ac35f26f5b8a0168c4c4733b212a60f63b94da",
+    "decimals": 18,
+    "chainId": 146,
+    "tags": []
   }
 ]
