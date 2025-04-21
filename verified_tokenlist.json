@@ -21926,5 +21926,2216 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "DEVBEAR",
+    "symbol": "DEVBEAR",
+    "address": "0x610d045bd3676e9bc1e74aa441d8b6a0c9953561",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "THOON",
+    "symbol": "THOON",
+    "address": "0xe80e3b8d439a4c2271cb58076ff79beb1998179e",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "stBGT",
+    "symbol": "stBGT",
+    "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Beracoin",
+    "symbol": "BERACHAIN",
+    "address": "0xc52957669c712a0b6e1a04da541e76c573130697",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "janitooor",
+    "symbol": "JANI",
+    "address": "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "NOME",
+    "symbol": "NOME",
+    "address": "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BN",
+    "symbol": "BN",
+    "address": "0x8ca2eed161f881939de1a987612df538409a5b58",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Neo Bera",
+    "symbol": "Neo",
+    "address": "0x6a0c86fe04f77ec2546ae072be6d8b60f0c8a421",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Artio",
+    "symbol": "ARTIO",
+    "address": "0x6ff4d64976428025cdcc3354ef53b5d19637481e",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "USDbr",
+    "symbol": "USDbr",
+    "address": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "AZEx Token",
+    "symbol": "AZT",
+    "address": "0xdad7898717ade066e1114e6bdbfafd8a6f378b7b",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "AthenAI",
+    "symbol": "ATI",
+    "address": "0x3262336b903f8decb1d9c9259138065d6c6e2e6f",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BmBN",
+    "symbol": "BmBn",
+    "address": "0x9557631c6e65d0432ba3fe8d96cb821145110371",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BEARLY RICH",
+    "symbol": "BRICH",
+    "address": "0xedd87bada06f462b632c0058bc4f350b5f4e5ddc",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Porridge",
+    "symbol": "PRG",
+    "address": "0xbf2e152f460090ace91a456e3dee5acf703f27ad",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Mibera",
+    "symbol": "Mibera",
+    "address": "0x44e858065527794a3aeda9d1b09113ae8fc320c1",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "In Tedism We Trust",
+    "symbol": "tedism",
+    "address": "0xee9f698b082773f1b6522af594da06bc3e24231f",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BeramoniumCoin",
+    "symbol": "BERAMO",
+    "address": "0x1f7210257fa157227d09449229a9266b0d581337",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "webera-vault-honey",
+    "symbol": "weHONEY",
+    "address": "0x4ead3867554e597c7b0d511dc68cead59286870d",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "webera-vault-wbera",
+    "symbol": "weWBERA",
+    "address": "0x55a050f76541c2554e9dfa3a0b4e665914bf92ea",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Berabot",
+    "symbol": "BBOT",
+    "address": "0xa452810a4215fccc834ed241e6667f519b9856ec",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Honey Is Money",
+    "symbol": "HIM",
+    "address": "0x047b41a14f0bef681b94f570479ae7208e577a0c",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Wrapped gBERA",
+    "symbol": "wgBERA",
+    "address": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BeraBoyz",
+    "symbol": "BOYZ",
+    "address": "0xbc665a196220043b738de189aef05250e2acc700",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BeraXBT",
+    "symbol": "BIXBT",
+    "address": "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Jerry Banfield",
+    "symbol": "JBAN",
+    "address": "0xb69b608da00577467f6a6d9640d3cb5d7d4b8264",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Liquid BGT",
+    "symbol": "LBGT",
+    "address": "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "NavFinance",
+    "symbol": "NAV",
+    "address": "0x6536cead649249cae42fc9bfb1f999429b3ec755",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Petra",
+    "symbol": "PETRA",
+    "address": "0x616bb37d9441aa2ff0015b4676d0ae9a124ef91c",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "henlo",
+    "symbol": "HENLO",
+    "address": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "address": "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Bread",
+    "symbol": "BREAD",
+    "address": "0x0003eedfdd020bf60d10cf684abac7c4534b7ead",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Origami iBGT Auto-Compounder",
+    "symbol": "oriBGT",
+    "address": "0x69f1e971257419b1e9c405a553f252c64a29a30a",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Berally Token",
+    "symbol": "BRLY",
+    "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "POLLEN",
+    "symbol": "POLLEN",
+    "address": "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Ooga Token",
+    "symbol": "OOGA",
+    "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": [
+      "featured",
+      "bluechip"
+    ]
+  },
+  {
+    "name": "Burr Governance Token",
+    "symbol": "BURR",
+    "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Bearn BGT",
+    "symbol": "yBGT",
+    "address": "0x7e768f47dfdd5dae874aac233f1bc5817137e453",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "OpenState BGT",
+    "symbol": "osBGT",
+    "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Wizzwoods Token",
+    "symbol": "WIZZ",
+    "address": "0x01c8a5ccad23a4d3764ef71c403862160aa2913a",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Bearn BERA",
+    "symbol": "yBERA",
+    "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Ethena sUSDE",
+    "symbol": "SY-sUSDE",
+    "address": "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Ethena sUSDE 25SEP2025",
+    "symbol": "PT-sUSDE-25SEP2025",
+    "address": "0x2719e657ec3b3cbe521a18e640ca55799836376f",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Ethena USDe",
+    "symbol": "SY-USDe",
+    "address": "0x0f2b6a162d14ae999a596a6b7459a9ef30cd9540",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Ethena USDe 25SEP2025",
+    "symbol": "PT-USDe-25SEP2025",
+    "address": "0xdc9b87e5efd6ca2beaa33dde9c544e1e98345de4",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Lombard BTC",
+    "symbol": "SY-LBTC",
+    "address": "0x428f2f93afac3f96b0de59854038c585e06165c8",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY ether.fi weETH",
+    "symbol": "SY-weETH",
+    "address": "0x43d03031fab845065e9cefe89dd122d63f72011f",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT ether.fi weETH 30OCT2025",
+    "symbol": "PT-weETH-30OCT2025",
+    "address": "0x1d513b989b93c438ce62edf209ae00b6a410cac4",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Staked Infrared BGT",
+    "symbol": "SY-iBGT",
+    "address": "0xc61c866b6fdc36f88ec368b969c6d7cb810cafa9",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Staked Infrared BGT 26JUN2025",
+    "symbol": "PT-iBGT-26JUN2025",
+    "address": "0xdda59e4d1ac10c73b87aab69686a806732e5f137",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Infrared BERA",
+    "symbol": "SY-iBERA",
+    "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Infrared BERA 26JUN2025",
+    "symbol": "PT-iBERA-26JUN2025",
+    "address": "0x48b358b7bc013f24e2d59b3a0d4455f6e71fe2d6",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "ether.fi BTC",
+    "symbol": "eBTC",
+    "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY ether.fi BTC",
+    "symbol": "SY eBTC",
+    "address": "0x9acc60f915dfcd190d270fc92567ae71776bd320",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT ether.fi BTC 25SEP2025",
+    "symbol": "PT-eBTC-25SEP2025",
+    "address": "0x1b34beae4f3a559ec3412532445c44b74d4053c5",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Dolomite: WBERA",
+    "symbol": "dWBERA",
+    "address": "0xaa97d791afc02af30cf0b046172bb05b3c306517",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "SY Dolomite wBERA",
+    "symbol": "SY-dWBERA",
+    "address": "0x9e88f2990c48315dace55ffda9950fc287362109",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Dolomite wBERA 30OCT2025",
+    "symbol": "PT-dWBERA-30OCT2025",
+    "address": "0xd8711f912e52a78d0ddd13fca2555700c31d61f4",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "PT Lombard BTC 25SEP2025",
+    "symbol": "PT-LBTC-25SEP2025",
+    "address": "0x83836b2c1d155be83d374cb74d74a4d9f2281b38",
+    "decimals": 8,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "BARIFF",
+    "symbol": "BARIFF",
+    "address": "0xd95dde5c738c9e11f9a92493da51c3fb09d204b2",
+    "decimals": 18,
+    "chainId": 80094,
+    "tags": []
+  },
+  {
+    "name": "Florence Finance flrEUR",
+    "symbol": "flrEUR",
+    "address": "0x9b6226dd0191a77d032f56a6d383044ee99944c3",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Lodestar Ether",
+    "symbol": "lETH",
+    "address": "0x2193c45244af12c280941281c8aa67dd08be0a64",
+    "decimals": 8,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Lodestar USD Coin",
+    "symbol": "lUSDC",
+    "address": "0x4c9aaed3b8c443b4b634d1a189a5e25c604768de",
+    "decimals": 8,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Gloop Token",
+    "symbol": "GLOOP",
+    "address": "0x4d48d503ed04d50418c9abf163b1168ff834e47c",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "G7",
+    "symbol": "G7",
+    "address": "0xf18e4466f26b4ca55bbab890b314a54976e45b17",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Clutch",
+    "symbol": "CLUTCH",
+    "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "MiL.k",
+    "symbol": "MLK",
+    "address": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c",
+    "decimals": 8,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "decimals": 18,
+    "chainId": 42161,
+    "tags": []
+  },
+  {
+    "name": "Wrapped SOL",
+    "symbol": "SOL",
+    "address": "So11111111111111111111111111111111111111112",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Fartcoin",
+    "symbol": "Fartcoin",
+    "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Jupiter Perps",
+    "symbol": "JLP",
+    "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "EURC",
+    "symbol": "EURC",
+    "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Wrapped BTC (Portal)",
+    "symbol": "WBTC",
+    "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Popcat",
+    "symbol": "POPCAT",
+    "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Jito Staked SOL",
+    "symbol": "JitoSOL",
+    "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Marinade staked SOL (mSOL)",
+    "symbol": "mSOL",
+    "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Ether (Portal)",
+    "symbol": "ETH",
+    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Dark Eclipse",
+    "symbol": "DARK",
+    "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "USDS",
+    "symbol": "USDS",
+    "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Lumo-8B-Instruct",
+    "symbol": "LUMO",
+    "address": "4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Jupiter Staked SOL",
+    "symbol": "JupSOL",
+    "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "titcoin",
+    "symbol": "titcoin",
+    "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "MAIAR",
+    "symbol": "MAIAR",
+    "address": "G5e2XonmccmdKc98g3eNQe5oBYGw9m8xdMUvVtcZpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Infinity",
+    "symbol": "INF",
+    "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Alchemist AI",
+    "symbol": "ALCH",
+    "address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "STONKS",
+    "symbol": "STONKS",
+    "address": "6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "AI Rig Complex",
+    "symbol": "arc",
+    "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FWOG",
+    "symbol": "FWOG",
+    "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Kamino",
+    "symbol": "KMNO",
+    "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "dogwifhat",
+    "symbol": "$WIF",
+    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Ava AI",
+    "symbol": "AVA",
+    "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Vine Coin",
+    "symbol": "VINE",
+    "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "BlazeStake Staked SOL (bSOL)",
+    "symbol": "bSOL",
+    "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "The Next Bitcoin",
+    "symbol": "BUTTCOIN",
+    "address": "FasH397CeZLNYWkd3wWK9vrmjd1z93n3b59DssRXpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PWEASE",
+    "symbol": "pwease",
+    "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Housecoin",
+    "symbol": "House",
+    "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Solayer SOL",
+    "symbol": "sSOL",
+    "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ai16z",
+    "symbol": "ai16z",
+    "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GIGACHAD",
+    "symbol": "GIGA",
+    "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Official Mascot of the Holy Year",
+    "symbol": "LUCE",
+    "address": "CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Solayer",
+    "symbol": "LAYER",
+    "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Unicorn Fart Dust",
+    "symbol": "UFD",
+    "address": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "nuit",
+    "symbol": "nuit",
+    "address": "2eXamy7t3kvKhfV6aJ6Uwe3eh8cuREFcTKs1mFKZpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Salvator Mundi",
+    "symbol": "Mundi",
+    "address": "4BBjpGwLgGmUxtT82YFK9xMhcvyy3zgf3HpxTRip1YoU",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SPX6900 (Wormhole)",
+    "symbol": "SPX",
+    "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Magic Eden",
+    "symbol": "ME",
+    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Melania Meme",
+    "symbol": "MELANIA",
+    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Solana Social Explorer",
+    "symbol": "SSE",
+    "address": "H4phNbsqjV5rqk8u6FUACTLB6rNZRTAPGnBb8KXJpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Shinobi Performance Pool Token",
+    "symbol": "xSHIN",
+    "address": "xSoL18r4U1k2ALa4yF857VDZJqCKecLtty92nscre3o",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "test griffain.com",
+    "symbol": "GRIFFAIN",
+    "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FAT NIGGA SEASON",
+    "symbol": "FAT",
+    "address": "5LJMJyR8MtAkbtpf8kFUV7S9oFG3xaGDdcnFxYt9pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Helius Staked SOL",
+    "symbol": "hSOL",
+    "address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GoFundMeme",
+    "symbol": "GFM",
+    "address": "E1jCTXdkMRoawoWoqfbhiNkkLbxcSHPssMo36U84pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Fluffington",
+    "symbol": "Fluffi",
+    "address": "6CEjCg7Jo5RV9kFSgKx66rpW19nrsCmccD2bxfwpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "jelly-my-jelly",
+    "symbol": "jellyjelly",
+    "address": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Fragmetric Restaked SOL",
+    "symbol": "wfragSOL",
+    "address": "WFRGSWjaz8tbAxsJitmbfRuFV2mSNwy7BMWcCwaA28U",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SIGMA",
+    "symbol": "SIGMA",
+    "address": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Orca",
+    "symbol": "ORCA",
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SwarmNode.ai",
+    "symbol": "SNAI",
+    "address": "Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "deBridge",
+    "symbol": "DBR",
+    "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Helium Network Token",
+    "symbol": "HNT",
+    "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "AgentTank",
+    "symbol": "TANK",
+    "address": "GAMwtMB6onAvBNBQJCJFuxoaqfPH8uCQ2dewNMVVpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "POND COIN - WARPED",
+    "symbol": "wPOND",
+    "address": "3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq",
+    "decimals": 3,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Butthole Coin",
+    "symbol": "Butthole",
+    "address": "CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Metaplex Token",
+    "symbol": "MPLX",
+    "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Digimon",
+    "symbol": "DIGIMON",
+    "address": "WEmjxPMGXEW1Nvc4rCgRKiWHj1H1tvhPsKMw2yvpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "cat in a dogs world",
+    "symbol": "MEW",
+    "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "spinning cat",
+    "symbol": "OIIAOIIA",
+    "address": "VaxZxmFXV8tmsd72hUn22ex6GFzZ5uq9DVJ5wA5pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "listen-rs",
+    "symbol": "listen",
+    "address": "Cn5Ne1vmR9ctMGY9z5NC71A3NYFvopjXNyxYtfVYpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Render Token",
+    "symbol": "RENDER",
+    "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Drift Staked SOL",
+    "symbol": "dSOL",
+    "address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "JITO",
+    "symbol": "JTO",
+    "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GST",
+    "symbol": "GST",
+    "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "360noscope420blazeit",
+    "symbol": "MLG",
+    "address": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SONIC",
+    "symbol": "SONIC",
+    "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Dolan Duck",
+    "symbol": "DOLAN",
+    "address": "4YK1njyeCkBuXG6phNtidJWKCbBhB659iwGkUJx98P5Z",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SolanaHub staked SOL",
+    "symbol": "hubSOL",
+    "address": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Nosana",
+    "symbol": "NOS",
+    "address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ORBIT",
+    "symbol": "GRIFT",
+    "address": "GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Hive AI",
+    "symbol": "BUZZ",
+    "address": "9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "HeyAnon",
+    "symbol": "Anon",
+    "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Edwin",
+    "symbol": "EDWIN",
+    "address": "GPrg1CgbBvAJS2SCuf9gF7NmQYsWudfyfWy5SUzypump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Free Palestine",
+    "symbol": "YAFA",
+    "address": "YAFAJvjUv9MVAKcTE7Y8ouo45QNKVK6fCMzdxt2tjPs",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Duck AI",
+    "symbol": "DUCKAI",
+    "address": "HFw81sUUPBkNF5tKDanV8VCYTfVY4XbrEEPiwzyypump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "swarms",
+    "symbol": "swarms",
+    "address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Moby AI",
+    "symbol": "MOBY",
+    "address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "TOP HAT",
+    "symbol": "HAT",
+    "address": "AxGAbdFtdbj2oNXa4dKqFvwHzgFtW9mFHWmd7vQfpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Mumu the Bull",
+    "symbol": "MUMU",
+    "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "michi",
+    "symbol": "$michi",
+    "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Zebec Network",
+    "symbol": "ZBCN",
+    "address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Chintai",
+    "symbol": "CHEX",
+    "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Soul Graph",
+    "symbol": "GRPH",
+    "address": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Collaterize",
+    "symbol": "$COLLAT",
+    "address": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "AGiXT",
+    "symbol": "AGiXT",
+    "address": "F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Ghiblification",
+    "symbol": "Ghibli",
+    "address": "4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "DADDY TATE",
+    "symbol": "DADDY",
+    "address": "4Cnk9EPnW5ixfLZatCPJjDB1PUtcRpVVgTQukm9epump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SelfieDogCoin",
+    "symbol": "SELFIE",
+    "address": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "would",
+    "symbol": "WOULD",
+    "address": "J1Wpmugrooj1yMyQKrdZ2vwRXG5rhfx3vTnYE39gpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "zerebro",
+    "symbol": "ZEREBRO",
+    "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "picoSOL",
+    "symbol": "picoSOL",
+    "address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ZEUS",
+    "symbol": "ZEUS",
+    "address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PONKE",
+    "symbol": "PONKE",
+    "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Saber Wrapped USD Coin (8 decimals)",
+    "symbol": "sUSDC-8",
+    "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ViralMind",
+    "symbol": "VIRAL",
+    "address": "HW7D5MyYG4Dz2C98axfjVBeLWpsEnofrqy6ZUwqwpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Degen Spartan AI",
+    "symbol": "degenai",
+    "address": "Gu3LDkn7Vx3bmCzLafYNKcDxv2mH7YN44NJZFXnypump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "IO",
+    "symbol": "IO",
+    "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PINO",
+    "symbol": "PINO",
+    "address": "7b36cKRYFZsMp3vLByVwfVQxW2ndcYth5rhPnyypump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Saber Wrapped USD Coin (9 decimals)",
+    "symbol": "sUSDC-9",
+    "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Bonk SOL",
+    "symbol": "bonkSOL",
+    "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Star Atlas",
+    "symbol": "ATLAS",
+    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Project89",
+    "symbol": "Project89",
+    "address": "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pippin",
+    "symbol": "pippin",
+    "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Peanut the Squirrel",
+    "symbol": "Pnut",
+    "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "MANEKI",
+    "symbol": "MANEKI",
+    "address": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pepe",
+    "symbol": "Pepe",
+    "address": "B5WTLaRwaUQpKk7ir1wniNB6m5o8GgMrimhKMYan2R6B",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Musk It",
+    "symbol": "MUSKIT",
+    "address": "9So52ugZh2BLBT3f7p61947q91uQh2DyvbfyMDeRpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "DOGE AI",
+    "symbol": "DOGEAI",
+    "address": "9UYAYvVS2cZ3BndbsoG1ScJbjfwyEPGxjE79hh5ipump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Comedian",
+    "symbol": "Ban",
+    "address": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "All Will Retire",
+    "symbol": "AWR",
+    "address": "Ai4CL1SAxVRigxQFwBH8S2JkuL7EqrdiGwTC7JpCpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "momo",
+    "symbol": "momo",
+    "address": "CHVggq5Bu2UKLB1MQtLciDV3UKv5hwLkJwA14egApump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Shadow Token",
+    "symbol": "SHDW",
+    "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GMT",
+    "symbol": "GMT",
+    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "RETARDIO",
+    "symbol": "RETARDIO",
+    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Goatseus Maximus",
+    "symbol": "GOAT",
+    "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Infinite Money Glitch",
+    "symbol": "IMG",
+    "address": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FRIC",
+    "symbol": "FRIC",
+    "address": "EsP4kJfKUDLfX274WoBSiiEy74Sh4tZKUCDjfULHpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Tensor",
+    "symbol": "TNSR",
+    "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Bertram The Pomeranian",
+    "symbol": "Bert",
+    "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Shoggoth",
+    "symbol": "Shoggoth",
+    "address": "H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "GameStop",
+    "symbol": "GME",
+    "address": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "mini",
+    "symbol": "mini",
+    "address": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "DOG (Bitcoin)",
+    "symbol": "DOG",
+    "address": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "The Vault",
+    "symbol": "vSOL",
+    "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Drift",
+    "symbol": "DRIFT",
+    "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "address": "G33s1LiUADEBLzN5jL6ocSXqrT2wsUq9W6nZ8o4k1b4L",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "lou",
+    "symbol": "lou",
+    "address": "5DQSDg6SGkbsbykq4mQstpcL4d5raEHc6rY7LgBwpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Helium Mobile",
+    "symbol": "MOBILE",
+    "address": "mb1eu7TzEc71KxDpsmsKoucSSuuoGLv1drys1oP2jh6",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Cloud",
+    "symbol": "CLOUD",
+    "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SolCex ",
+    "symbol": "SOLCEX",
+    "address": "AMjzRn1TBQwQfNAjHFeBb7uGbbqbJB7FzXAnGgdFPk6K",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Autonomous Virtual Beings",
+    "symbol": "AVB",
+    "address": "6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "StaRKe SOL",
+    "symbol": "rkSOL",
+    "address": "EPCz5LK372vmvCkZH3HgSuGNKACJJwwxsofW6fypCPZL",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "LOCK IN",
+    "symbol": "LOCKIN",
+    "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Access Protocol",
+    "symbol": "ACS",
+    "address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Elon Trump Fart",
+    "symbol": "ETF500",
+    "address": "CWX6t6pGJ1zsnuywnyd2ZMZJ7inB2sWuPdsteoT6pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Just a chill guy",
+    "symbol": "CHILLGUY",
+    "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "International Stable Currency",
+    "symbol": "ISC",
+    "address": "J9BcrQfX4p9D1bvLzRNCbMDv8f44a9LFdeqNE4Yk2WMD",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "just buy $1 worth of this coin",
+    "symbol": "$1",
+    "address": "GHichsGq8aPnqJyz6Jp1ASTK4PNLpB5KrD6XrfDjpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "BONGO CAT",
+    "symbol": "BONGO",
+    "address": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Rifampicin",
+    "symbol": "$RIF",
+    "address": "GJtJuWD9qYcCkrwMBmtY1tpapV1sKfB2zUv9Q4aqpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Kolwaii",
+    "symbol": "KWAII",
+    "address": "6uVJY332tiYwo58g3B8p9FJRGmGZ2fUuXR8cpiaDpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "San Chan",
+    "symbol": "San",
+    "address": "2z1p8xCEjRzpBHjXWrx4tJnz7BFL6z7NnvbCxH7bpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Stool Prisondente",
+    "symbol": "jailstool",
+    "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "American Coin",
+    "symbol": "USA",
+    "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FartStrategy",
+    "symbol": "FSTR",
+    "address": "FSTRgYfDaudjDwFg5A9LQpDMq5vxqhskHq4rkjUMwERE",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ASYM",
+    "symbol": "ASYM",
+    "address": "DNMTk67urDBxEEVRx9HjVzCVu8en4Kgg5HfZy3E6pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Myro",
+    "symbol": "$MYRO",
+    "address": "HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "WE LOVE ASS",
+    "symbol": "ASS",
+    "address": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Giko Cat",
+    "symbol": "GIKO",
+    "address": "3WPep4ufaToK1aS5s8BL9inzeUrt4DYaQCiic6ZkkC1U",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Luigi Mangione",
+    "symbol": "Luigi",
+    "address": "5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "griffain new hedge fund",
+    "symbol": "Citadail",
+    "address": "7h5AzpYTAnh4Gyux8Gqko5Fvx4AYQBZdkzHZ2CsBudvJ",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Star Atlas DAO",
+    "symbol": "POLIS",
+    "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Wen",
+    "symbol": "WEN",
+    "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+    "decimals": 5,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PYTHIA",
+    "symbol": "PYTHIA",
+    "address": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "REAL NIGGER TATE",
+    "symbol": "RNT",
+    "address": "2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "ORE",
+    "symbol": "ORE",
+    "address": "oreoU2P8bN6jkk3jbaiVxYnG1dCXcYxwhwyK9jSybcp",
+    "decimals": 11,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "address": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Forever Alone",
+    "symbol": "FA",
+    "address": "35sWUF3kq2YNuiEU5YgPo5yVqg6av2snKmm5RaT3gqYe",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "First Convicted RACCON",
+    "symbol": "FRED",
+    "address": "CNvitvFnSM5ed6K28RUNSaAjqqz5tX1rA5HgaBN9pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Chudjak",
+    "symbol": "Chud",
+    "address": "6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "The Last Play",
+    "symbol": "retire",
+    "address": "zGh48JtNHVBb5evgoZLXwgPD2Qu4MhkWdJLGDAupump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Tema",
+    "symbol": "TEMA",
+    "address": "CnfshwmvDqLrB1jSLF7bLJ3iZF5u354WRFGPBmGz4uyf",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Claude Opus",
+    "symbol": "OPUS",
+    "address": "9JhFqCA21MoAXs2PTaeqNQp2XngPn1PgYr2rsEVCpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Send",
+    "symbol": "SEND",
+    "address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Binance Coin (Portal)",
+    "symbol": "BNB",
+    "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Saros",
+    "symbol": "SAROS",
+    "address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Lido Staked SOL",
+    "symbol": "stSOL",
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Shark Cat",
+    "symbol": "SC",
+    "address": "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "BOOK OF MEME",
+    "symbol": "BOME",
+    "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "HARAMBE",
+    "symbol": "HARAMBE",
+    "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "HABIBI",
+    "symbol": "HABIBI",
+    "address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Purple Pepe",
+    "symbol": "PURPE",
+    "address": "HBoNJ5v8g71s2boRivrHnfSB5MVPLDHHyVjruPfhGkvL",
+    "decimals": 1,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Samoyed Coin",
+    "symbol": "SAMO",
+    "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FXN",
+    "symbol": "fxn",
+    "address": "92cRC6kV5D7TiHX1j56AbkPbffo9jwcXxSDQZ8Mopump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "USDe",
+    "symbol": "USDe",
+    "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "PAIN",
+    "symbol": "PAIN",
+    "address": "1Qf8gESP4i6CFNWerUSDdLKJ9U1LpqTYvjJ2MM4pain",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Eliza",
+    "symbol": "ELIZA",
+    "address": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "alon",
+    "symbol": "ALON",
+    "address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Skibidi Toilet",
+    "symbol": "SKBDI",
+    "address": "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Lux Token",
+    "symbol": "LUX",
+    "address": "BmXfbamFqrBzrqihr9hbSmEsfQUXMVaqshAjgvZupump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "FAFO",
+    "symbol": "FAFO",
+    "address": "BP8RUdhLKBL2vgVXc3n7oTSZKWaQVbD8S6QcPaMVBAPo",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Deer Seized by US Government",
+    "symbol": "Baby",
+    "address": "6pKHwNCpzgZuC9o5FzvCZkYSUGfQddhUYtMyDbEVpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "21.co Wrapped Bitcoin",
+    "symbol": "21BTC",
+    "address": "21BTCo9hWHjGYYUQQLqjLgDBxjcn8vDt4Zic7TB3UbNE",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "yesnoerror",
+    "symbol": "YNE",
+    "address": "7D1iYWfhw2cr9yBZBFE6nZaaSUvXHqG5FizFFEZwpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "$horny",
+    "symbol": "$horny",
+    "address": "8AS9yeGsAwvTs9gCDKMmB2MgX8NiSvv4uppH61yqpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Renzo Restaked SOL",
+    "symbol": "ezSOL",
+    "address": "ezSoL6fY1PVdJcJsUpe5CM3xkfmy3zoVCABybm5WtiC",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Lea AI",
+    "symbol": "LEA",
+    "address": "8SpPaFLycx897D6sowPZkEkcNdDahzRZb5itr6D8pump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Blockasset",
+    "symbol": "BLOCK",
+    "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "SwissBorg Token",
+    "symbol": "BORG",
+    "address": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
+    "decimals": 9,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Real AIOS Foundation",
+    "symbol": "AIOS",
+    "address": "5QS7RcHfGUa2ZtrovPvEJMB9coqroiT7H48dPSwFpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "Non-Playable Coin (Wormhole)",
+    "symbol": "NPC",
+    "address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
+    "decimals": 8,
+    "chainId": 1399811149,
+    "tags": []
+  },
+  {
+    "name": "She Rises",
+    "symbol": "AKA",
+    "address": "4TwC4AiF1uUSHES2eBftGqemp6TqjEnKghqiH6dFpump",
+    "decimals": 6,
+    "chainId": 1399811149,
+    "tags": []
   }
 ]
