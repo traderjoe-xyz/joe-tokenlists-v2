@@ -25809,5 +25809,13 @@
     "decimals": 18,
     "chainId": 146,
     "tags": []
+  },
+  {
+    "name": "Winnigga the Pooh (winnigga.com)",
+    "symbol": "WINNIE",
+    "address": "0x103f0cc1123cb3fd2462ae6e17a1ada9baeffc21",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
