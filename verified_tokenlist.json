@@ -25809,5 +25809,13 @@
     "decimals": 18,
     "chainId": 146,
     "tags": []
+  },
+  {
+    "name": "push it",
+    "symbol": "PUSH",
+    "address": "0x555401d23d7bac4ddd6c919433917785353d937d",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
