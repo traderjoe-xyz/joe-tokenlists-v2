@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Devs",
+    "symbol": "DEVS",
+    "address": "0x5ac3461061837925b2f4367619e6e528b40ffbf5",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
