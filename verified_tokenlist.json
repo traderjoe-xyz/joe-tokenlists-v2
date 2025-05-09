@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Aladeen.io",
+    "symbol": "ALADEEN",
+    "address": "0x3c655f60597c939a22264289411779a4c412836e",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
   }
 ]
