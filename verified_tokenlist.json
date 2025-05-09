@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Pyramid LiquidityOrder",
+    "symbol": "ORDER",
+    "address": "0x1bed077195307229fccbc719c5f2ce6416a58180",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
