@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "zera",
+    "symbol": "ZR",
+    "address": "0x98b33ff097033f15a91d0d5213593e9bc2f6a53f",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
