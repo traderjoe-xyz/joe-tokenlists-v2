@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Automatic AVAX Rewards",
+    "symbol": "AAR",
+    "address": "0xefeef2b1d465db98febf3bd637ae99c7f5340159",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
