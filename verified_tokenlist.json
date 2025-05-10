@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "FROST",
+    "symbol": "FROST",
+    "address": "0x0081f0f3cf969a5e784f5e9ddf3f122664957cde",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
