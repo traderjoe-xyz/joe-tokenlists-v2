@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Jasen Desimun",
+    "symbol": "JDMN",
+    "address": "0xf6d99cb2c99cb1e21113d894294a79d1e574f4f5",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
