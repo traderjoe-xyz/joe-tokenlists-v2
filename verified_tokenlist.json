@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Loksmith",
+    "symbol": "LOK",
+    "address": "0x41cbfd7c8709d1e459ce816703a1fc882daa77d3",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
