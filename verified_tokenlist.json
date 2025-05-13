@@ -25825,5 +25825,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "ARENA USD",
+    "symbol": "USDA",
+    "address": "0x0fb72db344b64bbebecd3a9ac6fdc197c981ab2f",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
