@@ -25841,5 +25841,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "BlueyToken",
+    "symbol": "BLUEY",
+    "address": "0xd73a91c4ee052681a3a7988f6b77d28a3afc87bf",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
