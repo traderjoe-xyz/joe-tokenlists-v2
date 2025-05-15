@@ -25841,5 +25841,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "NXPC",
+    "symbol": "NXPC",
+    "address": "0x5e0e90e268bc247cc850c789a0db0d5c7621fb59",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
