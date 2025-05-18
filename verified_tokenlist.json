@@ -25849,5 +25849,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "GGcrypto",
+    "symbol": "GGO",
+    "address": "0x17c370a606579a55b904f33dc66d167103a0c079",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
