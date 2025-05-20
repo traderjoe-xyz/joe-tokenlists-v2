@@ -25849,5 +25849,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "JORBO AI",
+    "symbol": "JORBO",
+    "address": "0x7f2b1d59b13999a8581d8ef382d00b733c2c70fb",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
