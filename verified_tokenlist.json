@@ -25849,5 +25849,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Turkiye Token",
+    "symbol": "TRK",
+    "address": "0xc50544ed302ef7863b9063f7de0499d354a9dc81",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
