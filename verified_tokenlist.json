@@ -25857,5 +25857,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "oUSD Stablecoin V3",
+    "symbol": "oUSD",
+    "address": "0x94939ba2300fc48fd0501e8c8cfe990e52a489d0",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
