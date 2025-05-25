@@ -25857,5 +25857,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "OrderUSD Simple",
+    "symbol": "oUSD",
+    "address": "0x1d9e66508b2e1f113f22336c42d7adb74e12d284",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
