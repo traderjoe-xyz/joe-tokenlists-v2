@@ -25857,5 +25857,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Moon",
+    "symbol": "MOON",
+    "address": "0x4aa50e8208095d9594d18e8e3008abb811125dce",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
