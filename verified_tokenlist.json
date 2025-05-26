@@ -25857,5 +25857,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "MistToken",
+    "symbol": "MIST",
+    "address": "0xb38bb873cca844b20a9ee448a87af3626a6e1ef5",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
