@@ -25865,5 +25865,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "BRAP",
+    "symbol": "BRAPTKN",
+    "address": "0x5b3ff4d494e9ee69ee0f52ab9656cffe99d4839e",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
