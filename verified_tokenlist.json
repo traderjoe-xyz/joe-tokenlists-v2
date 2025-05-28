@@ -25881,5 +25881,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "xART",
+    "symbol": "xART",
+    "address": "0xa18205cf67a28630aa0de95ddd62afd65cf3c4fa",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
