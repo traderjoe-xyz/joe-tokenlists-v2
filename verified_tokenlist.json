@@ -25859,6 +25859,14 @@
     "tags": []
   },
   {
+    "name": "Moon",
+    "symbol": "MOON",
+    "address": "0x4aa50e8208095d9594d18e8e3008abb811125dce",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
     "name": "MistToken",
     "symbol": "MIST",
     "address": "0xb38bb873cca844b20a9ee448a87af3626a6e1ef5",
