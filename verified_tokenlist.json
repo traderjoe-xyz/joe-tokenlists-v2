@@ -25873,5 +25873,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Emini Spaghettini",
+    "symbol": "EMINI",
+    "address": "0x8cf71b4f445a47f234a0dc61034708a4087bead0",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
