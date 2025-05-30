@@ -25883,6 +25883,14 @@
     "tags": []
   },
   {
+    "name": "Wormhole Wrapped ETH",
+    "symbol": "wWETH",
+    "address": "0xa296f47e8ff895ed7a092b4a9498bb13c46ac768",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
+  },
+  {
     "name": "Enjoyoors gigaETH",
     "symbol": "gigaETH",
     "address": "0x8589a0dd9ecd77b7d70ff76147dce366bf31254e",
