@@ -25881,5 +25881,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Enjoyoors gigaETH",
+    "symbol": "gigaETH",
+    "address": "0x8589a0dd9ecd77b7d70ff76147dce366bf31254e",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
