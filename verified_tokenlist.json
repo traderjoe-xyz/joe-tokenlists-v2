@@ -25897,5 +25897,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Crafters",
+    "symbol": "CRAFT",
+    "address": "0x43ed3bfd7e6f4dd156edb10597b644e36fa53f1c",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
