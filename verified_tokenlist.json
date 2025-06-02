@@ -25897,5 +25897,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Erol Musk",
+    "symbol": "EROL",
+    "address": "0xcac4904e1db1589aa17a2ec742f5a6bcf4c4d037",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
