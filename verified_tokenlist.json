@@ -25905,5 +25905,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Unity",
+    "symbol": "UTY",
+    "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
