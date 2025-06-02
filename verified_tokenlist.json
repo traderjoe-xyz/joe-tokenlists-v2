@@ -25905,5 +25905,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Staked UTY",
+    "symbol": "yUTY",
+    "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
