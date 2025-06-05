@@ -25961,5 +25961,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Wormhole Wrapped ETH",
+    "symbol": "wWETH",
+    "address": "0xa296f47e8ff895ed7a092b4a9498bb13c46ac768",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
