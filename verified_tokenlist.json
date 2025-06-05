@@ -25937,5 +25937,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "FEEDNAD",
+    "symbol": "FEEDMONAD",
+    "address": "0x18c3e1f90fdb16dc4af0fdc2abcfa79fd064b88e",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
