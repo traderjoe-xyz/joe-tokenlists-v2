@@ -25969,5 +25969,13 @@
     "decimals": 18,
     "chainId": 10143,
     "tags": []
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "address": "0x634608ed64c61ca9e741f8095193c0bfa0fa19cc",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
