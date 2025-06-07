@@ -25977,5 +25977,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Numiscart Token",
+    "symbol": "NUMIS",
+    "address": "0x767f35fbc3b89f961417f6383d005cd3c90119bd",
+    "decimals": 18,
+    "chainId": 56,
+    "tags": []
   }
 ]
