@@ -25985,5 +25985,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Wife Changing Money",
+    "symbol": "WIFE",
+    "address": "0xe088d859d8bce513b76dc11c05d559254e28a336",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
