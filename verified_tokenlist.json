@@ -25993,5 +25993,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Wrapped SOL",
+    "symbol": "SOL",
+    "address": "0x369cd1e20fa7ea1f8e6dc0759709ba0bd978abe7",
+    "decimals": 9,
+    "chainId": 10143,
+    "tags": []
   }
 ]
