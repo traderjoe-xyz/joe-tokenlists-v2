@@ -25993,5 +25993,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "MOZAM",
+    "symbol": "MOZAM",
+    "address": "0x5b320f40525b31a5569e8dc20e9655e5894fce1e",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
