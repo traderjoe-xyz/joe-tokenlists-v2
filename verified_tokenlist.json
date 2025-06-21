@@ -25993,5 +25993,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "UltravioletaDAO",
+    "symbol": "UVD",
+    "address": "0x4ffe7e01832243e03668e090706f17726c26d6b2",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
